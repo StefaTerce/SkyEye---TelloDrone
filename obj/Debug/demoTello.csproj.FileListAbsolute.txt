@@ -1,0 +1,687 @@
+C:\Users\marco\Desktop\demoTello\bin\Debug\demoTello.exe.config
+C:\Users\marco\Desktop\demoTello\bin\Debug\demoTello.exe
+C:\Users\marco\Desktop\demoTello\bin\Debug\demoTello.pdb
+C:\Users\marco\Desktop\demoTello\bin\Debug\MjpegProcessor.dll
+C:\Users\marco\Desktop\demoTello\bin\Debug\NLog.dll
+C:\Users\marco\Desktop\demoTello\bin\Debug\System.Buffers.dll
+C:\Users\marco\Desktop\demoTello\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\marco\Desktop\demoTello\bin\Debug\System.Memory.dll
+C:\Users\marco\Desktop\demoTello\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\marco\Desktop\demoTello\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\marco\Desktop\demoTello\bin\Debug\NLog.xml
+C:\Users\marco\Desktop\demoTello\bin\Debug\System.Buffers.xml
+C:\Users\marco\Desktop\demoTello\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\marco\Desktop\demoTello\bin\Debug\System.Memory.xml
+C:\Users\marco\Desktop\demoTello\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\marco\Desktop\demoTello\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\marco\Desktop\demoTello\obj\Debug\demoTello.csproj.AssemblyReference.cache
+C:\Users\marco\Desktop\demoTello\obj\Debug\demoTello.csproj.SuggestedBindingRedirects.cache
+C:\Users\marco\Desktop\demoTello\obj\Debug\demoTello.Form1.resources
+C:\Users\marco\Desktop\demoTello\obj\Debug\demoTello.Form2.resources
+C:\Users\marco\Desktop\demoTello\obj\Debug\demoTello.Properties.Resources.resources
+C:\Users\marco\Desktop\demoTello\obj\Debug\demoTello.csproj.GenerateResource.cache
+C:\Users\marco\Desktop\demoTello\obj\Debug\demoTello.csproj.CoreCompileInputs.cache
+C:\Users\marco\Desktop\demoTello\obj\Debug\demoTello.csproj.CopyComplete
+C:\Users\marco\Desktop\demoTello\obj\Debug\demoTello.exe
+C:\Users\marco\Desktop\demoTello\obj\Debug\demoTello.pdb
+C:\Users\User\OneDrive\Desktop\demoTelloo\demoTello\obj\Debug\demoTello.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\demoTelloo\demoTello\obj\Debug\demoTello.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Desktop\demoTelloo\demoTello\obj\Debug\demoTello.exe
+C:\Users\User\OneDrive\Desktop\demoTelloo\demoTello\obj\Debug\demoTello.pdb
+C:\Users\User\OneDrive\Desktop\INFORMATICA\demoTello\bin\Debug\demoTello.exe.config
+C:\Users\User\OneDrive\Desktop\INFORMATICA\demoTello\bin\Debug\demoTello.exe
+C:\Users\User\OneDrive\Desktop\INFORMATICA\demoTello\bin\Debug\demoTello.pdb
+C:\Users\User\OneDrive\Desktop\INFORMATICA\demoTello\bin\Debug\MjpegProcessor.dll
+C:\Users\User\OneDrive\Desktop\INFORMATICA\demoTello\bin\Debug\NLog.dll
+C:\Users\User\OneDrive\Desktop\INFORMATICA\demoTello\bin\Debug\System.Buffers.dll
+C:\Users\User\OneDrive\Desktop\INFORMATICA\demoTello\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\OneDrive\Desktop\INFORMATICA\demoTello\bin\Debug\System.Memory.dll
+C:\Users\User\OneDrive\Desktop\INFORMATICA\demoTello\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\OneDrive\Desktop\INFORMATICA\demoTello\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\OneDrive\Desktop\INFORMATICA\demoTello\bin\Debug\NLog.xml
+C:\Users\User\OneDrive\Desktop\INFORMATICA\demoTello\bin\Debug\System.Buffers.xml
+C:\Users\User\OneDrive\Desktop\INFORMATICA\demoTello\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\User\OneDrive\Desktop\INFORMATICA\demoTello\bin\Debug\System.Memory.xml
+C:\Users\User\OneDrive\Desktop\INFORMATICA\demoTello\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\OneDrive\Desktop\INFORMATICA\demoTello\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\OneDrive\Desktop\INFORMATICA\demoTello\obj\Debug\demoTello.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\INFORMATICA\demoTello\obj\Debug\demoTello.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Desktop\INFORMATICA\demoTello\obj\Debug\demoTello.Form1.resources
+C:\Users\User\OneDrive\Desktop\INFORMATICA\demoTello\obj\Debug\demoTello.Form2.resources
+C:\Users\User\OneDrive\Desktop\INFORMATICA\demoTello\obj\Debug\demoTello.Properties.Resources.resources
+C:\Users\User\OneDrive\Desktop\INFORMATICA\demoTello\obj\Debug\demoTello.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Desktop\INFORMATICA\demoTello\obj\Debug\demoTello.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\INFORMATICA\demoTello\obj\Debug\demoTello.csproj.CopyComplete
+C:\Users\User\OneDrive\Desktop\INFORMATICA\demoTello\obj\Debug\demoTello.exe
+C:\Users\User\OneDrive\Desktop\INFORMATICA\demoTello\obj\Debug\demoTello.pdb
+C:\Users\User\OneDrive\Desktop\demoTello\obj\Debug\demoTello.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\demoTello\obj\Debug\demoTello.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Desktop\demoTello\obj\Debug\demoTello.exe
+C:\Users\User\OneDrive\Desktop\demoTello\obj\Debug\demoTello.pdb
+C:\Users\User\OneDrive\Desktop\demoTello\bin\Debug\demoTello.exe.config
+C:\Users\User\OneDrive\Desktop\demoTello\bin\Debug\demoTello.exe
+C:\Users\User\OneDrive\Desktop\demoTello\bin\Debug\demoTello.pdb
+C:\Users\User\OneDrive\Desktop\demoTello\bin\Debug\MjpegProcessor.dll
+C:\Users\User\OneDrive\Desktop\demoTello\bin\Debug\NLog.dll
+C:\Users\User\OneDrive\Desktop\demoTello\bin\Debug\System.Buffers.dll
+C:\Users\User\OneDrive\Desktop\demoTello\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\OneDrive\Desktop\demoTello\bin\Debug\System.Memory.dll
+C:\Users\User\OneDrive\Desktop\demoTello\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\OneDrive\Desktop\demoTello\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\OneDrive\Desktop\demoTello\bin\Debug\NLog.xml
+C:\Users\User\OneDrive\Desktop\demoTello\bin\Debug\System.Buffers.xml
+C:\Users\User\OneDrive\Desktop\demoTello\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\User\OneDrive\Desktop\demoTello\bin\Debug\System.Memory.xml
+C:\Users\User\OneDrive\Desktop\demoTello\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\OneDrive\Desktop\demoTello\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\OneDrive\Desktop\demoTello\obj\Debug\demoTello.Form1.resources
+C:\Users\User\OneDrive\Desktop\demoTello\obj\Debug\demoTello.Form2.resources
+C:\Users\User\OneDrive\Desktop\demoTello\obj\Debug\demoTello.Properties.Resources.resources
+C:\Users\User\OneDrive\Desktop\demoTello\obj\Debug\demoTello.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Desktop\demoTello\obj\Debug\demoTello.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\demoTello\obj\Debug\demoTello.csproj.CopyComplete
+C:\Users\User\OneDrive\Desktop\demoTello quello che va\bin\Debug\demoTello.exe.config
+C:\Users\User\OneDrive\Desktop\demoTello quello che va\bin\Debug\demoTello.exe
+C:\Users\User\OneDrive\Desktop\demoTello quello che va\bin\Debug\demoTello.pdb
+C:\Users\User\OneDrive\Desktop\demoTello quello che va\bin\Debug\MjpegProcessor.dll
+C:\Users\User\OneDrive\Desktop\demoTello quello che va\bin\Debug\NLog.dll
+C:\Users\User\OneDrive\Desktop\demoTello quello che va\bin\Debug\System.Buffers.dll
+C:\Users\User\OneDrive\Desktop\demoTello quello che va\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\OneDrive\Desktop\demoTello quello che va\bin\Debug\System.Memory.dll
+C:\Users\User\OneDrive\Desktop\demoTello quello che va\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\OneDrive\Desktop\demoTello quello che va\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\OneDrive\Desktop\demoTello quello che va\bin\Debug\NLog.xml
+C:\Users\User\OneDrive\Desktop\demoTello quello che va\bin\Debug\System.Buffers.xml
+C:\Users\User\OneDrive\Desktop\demoTello quello che va\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\User\OneDrive\Desktop\demoTello quello che va\bin\Debug\System.Memory.xml
+C:\Users\User\OneDrive\Desktop\demoTello quello che va\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\OneDrive\Desktop\demoTello quello che va\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\OneDrive\Desktop\demoTello quello che va\obj\Debug\demoTello.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\demoTello quello che va\obj\Debug\demoTello.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Desktop\demoTello quello che va\obj\Debug\demoTello.Form1.resources
+C:\Users\User\OneDrive\Desktop\demoTello quello che va\obj\Debug\demoTello.Form2.resources
+C:\Users\User\OneDrive\Desktop\demoTello quello che va\obj\Debug\demoTello.Properties.Resources.resources
+C:\Users\User\OneDrive\Desktop\demoTello quello che va\obj\Debug\demoTello.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Desktop\demoTello quello che va\obj\Debug\demoTello.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\demoTello quello che va\obj\Debug\demoTello.csproj.CopyComplete
+C:\Users\User\OneDrive\Desktop\demoTello quello che va\obj\Debug\demoTello.exe
+C:\Users\User\OneDrive\Desktop\demoTello quello che va\obj\Debug\demoTello.pdb
+C:\Users\User\OneDrive\Desktop\demoTello quello che va (2)\demoTello quello che va\bin\Debug\demoTello.exe.config
+C:\Users\User\OneDrive\Desktop\demoTello quello che va (2)\demoTello quello che va\bin\Debug\demoTello.exe
+C:\Users\User\OneDrive\Desktop\demoTello quello che va (2)\demoTello quello che va\bin\Debug\demoTello.pdb
+C:\Users\User\OneDrive\Desktop\demoTello quello che va (2)\demoTello quello che va\bin\Debug\MjpegProcessor.dll
+C:\Users\User\OneDrive\Desktop\demoTello quello che va (2)\demoTello quello che va\bin\Debug\NLog.dll
+C:\Users\User\OneDrive\Desktop\demoTello quello che va (2)\demoTello quello che va\bin\Debug\System.Buffers.dll
+C:\Users\User\OneDrive\Desktop\demoTello quello che va (2)\demoTello quello che va\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\OneDrive\Desktop\demoTello quello che va (2)\demoTello quello che va\bin\Debug\System.Memory.dll
+C:\Users\User\OneDrive\Desktop\demoTello quello che va (2)\demoTello quello che va\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\OneDrive\Desktop\demoTello quello che va (2)\demoTello quello che va\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\OneDrive\Desktop\demoTello quello che va (2)\demoTello quello che va\bin\Debug\NLog.xml
+C:\Users\User\OneDrive\Desktop\demoTello quello che va (2)\demoTello quello che va\bin\Debug\System.Buffers.xml
+C:\Users\User\OneDrive\Desktop\demoTello quello che va (2)\demoTello quello che va\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\User\OneDrive\Desktop\demoTello quello che va (2)\demoTello quello che va\bin\Debug\System.Memory.xml
+C:\Users\User\OneDrive\Desktop\demoTello quello che va (2)\demoTello quello che va\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\OneDrive\Desktop\demoTello quello che va (2)\demoTello quello che va\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\OneDrive\Desktop\demoTello quello che va (2)\demoTello quello che va\obj\Debug\demoTello.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\demoTello quello che va (2)\demoTello quello che va\obj\Debug\demoTello.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Desktop\demoTello quello che va (2)\demoTello quello che va\obj\Debug\demoTello.Form1.resources
+C:\Users\User\OneDrive\Desktop\demoTello quello che va (2)\demoTello quello che va\obj\Debug\demoTello.Form2.resources
+C:\Users\User\OneDrive\Desktop\demoTello quello che va (2)\demoTello quello che va\obj\Debug\demoTello.Properties.Resources.resources
+C:\Users\User\OneDrive\Desktop\demoTello quello che va (2)\demoTello quello che va\obj\Debug\demoTello.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Desktop\demoTello quello che va (2)\demoTello quello che va\obj\Debug\demoTello.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\demoTello quello che va (2)\demoTello quello che va\obj\Debug\demoTello.csproj.CopyComplete
+C:\Users\User\OneDrive\Desktop\demoTello quello che va (2)\demoTello quello che va\obj\Debug\demoTello.exe
+C:\Users\User\OneDrive\Desktop\demoTello quello che va (2)\demoTello quello che va\obj\Debug\demoTello.pdb
+C:\Users\marco\Desktop\demoTello quello che va (2)\demoTello quello che va\bin\Debug\demoTello.exe.config
+C:\Users\marco\Desktop\demoTello quello che va (2)\demoTello quello che va\bin\Debug\demoTello.exe
+C:\Users\marco\Desktop\demoTello quello che va (2)\demoTello quello che va\bin\Debug\demoTello.pdb
+C:\Users\marco\Desktop\demoTello quello che va (2)\demoTello quello che va\bin\Debug\MjpegProcessor.dll
+C:\Users\marco\Desktop\demoTello quello che va (2)\demoTello quello che va\bin\Debug\NLog.dll
+C:\Users\marco\Desktop\demoTello quello che va (2)\demoTello quello che va\bin\Debug\System.Buffers.dll
+C:\Users\marco\Desktop\demoTello quello che va (2)\demoTello quello che va\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\marco\Desktop\demoTello quello che va (2)\demoTello quello che va\bin\Debug\System.Memory.dll
+C:\Users\marco\Desktop\demoTello quello che va (2)\demoTello quello che va\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\marco\Desktop\demoTello quello che va (2)\demoTello quello che va\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\marco\Desktop\demoTello quello che va (2)\demoTello quello che va\bin\Debug\NLog.xml
+C:\Users\marco\Desktop\demoTello quello che va (2)\demoTello quello che va\bin\Debug\System.Buffers.xml
+C:\Users\marco\Desktop\demoTello quello che va (2)\demoTello quello che va\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\marco\Desktop\demoTello quello che va (2)\demoTello quello che va\bin\Debug\System.Memory.xml
+C:\Users\marco\Desktop\demoTello quello che va (2)\demoTello quello che va\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\marco\Desktop\demoTello quello che va (2)\demoTello quello che va\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\marco\Desktop\demoTello quello che va (2)\demoTello quello che va\obj\Debug\demoTello.csproj.AssemblyReference.cache
+C:\Users\marco\Desktop\demoTello quello che va (2)\demoTello quello che va\obj\Debug\demoTello.csproj.SuggestedBindingRedirects.cache
+C:\Users\marco\Desktop\demoTello quello che va (2)\demoTello quello che va\obj\Debug\demoTello.Form1.resources
+C:\Users\marco\Desktop\demoTello quello che va (2)\demoTello quello che va\obj\Debug\demoTello.Form2.resources
+C:\Users\marco\Desktop\demoTello quello che va (2)\demoTello quello che va\obj\Debug\demoTello.Properties.Resources.resources
+C:\Users\marco\Desktop\demoTello quello che va (2)\demoTello quello che va\obj\Debug\demoTello.csproj.GenerateResource.cache
+C:\Users\marco\Desktop\demoTello quello che va (2)\demoTello quello che va\obj\Debug\demoTello.csproj.CoreCompileInputs.cache
+C:\Users\marco\Desktop\demoTello quello che va (2)\demoTello quello che va\obj\Debug\demoTello.csproj.CopyComplete
+C:\Users\marco\Desktop\demoTello quello che va (2)\demoTello quello che va\obj\Debug\demoTello.exe
+C:\Users\marco\Desktop\demoTello quello che va (2)\demoTello quello che va\obj\Debug\demoTello.pdb
+C:\Users\User\OneDrive\Desktop\INFORMA\demoTello quello che va\bin\Debug\demoTello.exe.config
+C:\Users\User\OneDrive\Desktop\INFORMA\demoTello quello che va\bin\Debug\demoTello.exe
+C:\Users\User\OneDrive\Desktop\INFORMA\demoTello quello che va\bin\Debug\demoTello.pdb
+C:\Users\User\OneDrive\Desktop\INFORMA\demoTello quello che va\bin\Debug\MjpegProcessor.dll
+C:\Users\User\OneDrive\Desktop\INFORMA\demoTello quello che va\bin\Debug\NLog.dll
+C:\Users\User\OneDrive\Desktop\INFORMA\demoTello quello che va\bin\Debug\System.Buffers.dll
+C:\Users\User\OneDrive\Desktop\INFORMA\demoTello quello che va\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\OneDrive\Desktop\INFORMA\demoTello quello che va\bin\Debug\System.Memory.dll
+C:\Users\User\OneDrive\Desktop\INFORMA\demoTello quello che va\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\OneDrive\Desktop\INFORMA\demoTello quello che va\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\OneDrive\Desktop\INFORMA\demoTello quello che va\bin\Debug\NLog.xml
+C:\Users\User\OneDrive\Desktop\INFORMA\demoTello quello che va\bin\Debug\System.Buffers.xml
+C:\Users\User\OneDrive\Desktop\INFORMA\demoTello quello che va\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\User\OneDrive\Desktop\INFORMA\demoTello quello che va\bin\Debug\System.Memory.xml
+C:\Users\User\OneDrive\Desktop\INFORMA\demoTello quello che va\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\OneDrive\Desktop\INFORMA\demoTello quello che va\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\OneDrive\Desktop\INFORMA\demoTello quello che va\bin\Debug\Interop.WMPLib.dll
+C:\Users\User\OneDrive\Desktop\INFORMA\demoTello quello che va\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\User\OneDrive\Desktop\INFORMA\demoTello quello che va\obj\Debug\demoTello.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\INFORMA\demoTello quello che va\obj\Debug\demoTello.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Desktop\INFORMA\demoTello quello che va\obj\Debug\Interop.WMPLib.dll
+C:\Users\User\OneDrive\Desktop\INFORMA\demoTello quello che va\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\User\OneDrive\Desktop\INFORMA\demoTello quello che va\obj\Debug\demoTello.csproj.ResolveComReference.cache
+C:\Users\User\OneDrive\Desktop\INFORMA\demoTello quello che va\obj\Debug\demoTello.Form1.resources
+C:\Users\User\OneDrive\Desktop\INFORMA\demoTello quello che va\obj\Debug\demoTello.Form2.resources
+C:\Users\User\OneDrive\Desktop\INFORMA\demoTello quello che va\obj\Debug\demoTello.Properties.Resources.resources
+C:\Users\User\OneDrive\Desktop\INFORMA\demoTello quello che va\obj\Debug\demoTello.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Desktop\INFORMA\demoTello quello che va\obj\Debug\demoTello.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\INFORMA\demoTello quello che va\obj\Debug\demoTello.csproj.CopyComplete
+C:\Users\User\OneDrive\Desktop\INFORMA\demoTello quello che va\obj\Debug\demoTello.exe
+C:\Users\User\OneDrive\Desktop\INFORMA\demoTello quello che va\obj\Debug\demoTello.pdb
+C:\Users\User\OneDrive\Desktop\INFORMA\demoTello quello che va\obj\Debug\demoTello.Form3.resources
+C:\Users\User\OneDrive\Desktop\INFORMA\demoTello quello che va\bin\Debug\OpenCvSharp.dll
+C:\Users\User\OneDrive\Desktop\INFORMA\demoTello quello che va\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\User\OneDrive\Desktop\INFORMA\demoTello quello che va\bin\Debug\System.Drawing.Common.dll
+C:\Users\User\OneDrive\Desktop\INFORMA\demoTello quello che va\bin\Debug\System.ValueTuple.dll
+C:\Users\User\OneDrive\Desktop\INFORMA\demoTello quello che va\bin\Debug\OpenCvSharp.xml
+C:\Users\User\OneDrive\Desktop\INFORMA\demoTello quello che va\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\User\OneDrive\Desktop\INFORMA\demoTello quello che va\bin\Debug\System.ValueTuple.xml
+C:\Users\User\OneDrive\Desktop\INFORMA\demoTello quello che va\bin\Debug\System.Drawing.Common.xml
+C:\Users\User\OneDrive\Desktop\INFORMA\demoTello quello che va\bin\Debug\SharpDX.DirectInput.dll
+C:\Users\User\OneDrive\Desktop\INFORMA\demoTello quello che va\bin\Debug\SharpDX.dll
+C:\Users\User\OneDrive\Desktop\INFORMA\demoTello quello che va\bin\Debug\SharpDX.pdb
+C:\Users\User\OneDrive\Desktop\INFORMA\demoTello quello che va\bin\Debug\SharpDX.DirectInput.pdb
+C:\Users\User\OneDrive\Desktop\INFORMA\demoTello quello che va\bin\Debug\SharpDX.DirectInput.xml
+C:\Users\User\OneDrive\Desktop\INFORMA\demoTello quello che va\obj\Debug\demoTello.Form4.resources
+C:\Users\marco\Desktop\demoTello quello che va\bin\Debug\demoTello.exe.config
+C:\Users\marco\Desktop\demoTello quello che va\bin\Debug\demoTello.exe
+C:\Users\marco\Desktop\demoTello quello che va\bin\Debug\demoTello.pdb
+C:\Users\marco\Desktop\demoTello quello che va\bin\Debug\MjpegProcessor.dll
+C:\Users\marco\Desktop\demoTello quello che va\bin\Debug\NLog.dll
+C:\Users\marco\Desktop\demoTello quello che va\bin\Debug\OpenCvSharp.dll
+C:\Users\marco\Desktop\demoTello quello che va\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\marco\Desktop\demoTello quello che va\bin\Debug\SharpDX.DirectInput.dll
+C:\Users\marco\Desktop\demoTello quello che va\bin\Debug\SharpDX.dll
+C:\Users\marco\Desktop\demoTello quello che va\bin\Debug\System.Buffers.dll
+C:\Users\marco\Desktop\demoTello quello che va\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\marco\Desktop\demoTello quello che va\bin\Debug\System.Drawing.Common.dll
+C:\Users\marco\Desktop\demoTello quello che va\bin\Debug\System.Memory.dll
+C:\Users\marco\Desktop\demoTello quello che va\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\marco\Desktop\demoTello quello che va\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\marco\Desktop\demoTello quello che va\bin\Debug\System.ValueTuple.dll
+C:\Users\marco\Desktop\demoTello quello che va\bin\Debug\NLog.xml
+C:\Users\marco\Desktop\demoTello quello che va\bin\Debug\OpenCvSharp.xml
+C:\Users\marco\Desktop\demoTello quello che va\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\marco\Desktop\demoTello quello che va\bin\Debug\SharpDX.pdb
+C:\Users\marco\Desktop\demoTello quello che va\bin\Debug\SharpDX.DirectInput.pdb
+C:\Users\marco\Desktop\demoTello quello che va\bin\Debug\SharpDX.DirectInput.xml
+C:\Users\marco\Desktop\demoTello quello che va\bin\Debug\System.Buffers.xml
+C:\Users\marco\Desktop\demoTello quello che va\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\marco\Desktop\demoTello quello che va\bin\Debug\System.Drawing.Common.xml
+C:\Users\marco\Desktop\demoTello quello che va\bin\Debug\System.Memory.xml
+C:\Users\marco\Desktop\demoTello quello che va\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\marco\Desktop\demoTello quello che va\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\marco\Desktop\demoTello quello che va\bin\Debug\System.ValueTuple.xml
+C:\Users\marco\Desktop\demoTello quello che va\bin\Debug\Interop.WMPLib.dll
+C:\Users\marco\Desktop\demoTello quello che va\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\marco\Desktop\demoTello quello che va\obj\Debug\demoTello.csproj.AssemblyReference.cache
+C:\Users\marco\Desktop\demoTello quello che va\obj\Debug\demoTello.csproj.SuggestedBindingRedirects.cache
+C:\Users\marco\Desktop\demoTello quello che va\obj\Debug\Interop.WMPLib.dll
+C:\Users\marco\Desktop\demoTello quello che va\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\marco\Desktop\demoTello quello che va\obj\Debug\demoTello.csproj.ResolveComReference.cache
+C:\Users\marco\Desktop\demoTello quello che va\obj\Debug\demoTello.Form1.resources
+C:\Users\marco\Desktop\demoTello quello che va\obj\Debug\demoTello.Form2.resources
+C:\Users\marco\Desktop\demoTello quello che va\obj\Debug\demoTello.Form3.resources
+C:\Users\marco\Desktop\demoTello quello che va\obj\Debug\demoTello.Form4.resources
+C:\Users\marco\Desktop\demoTello quello che va\obj\Debug\demoTello.Properties.Resources.resources
+C:\Users\marco\Desktop\demoTello quello che va\obj\Debug\demoTello.csproj.GenerateResource.cache
+C:\Users\marco\Desktop\demoTello quello che va\obj\Debug\demoTello.csproj.CoreCompileInputs.cache
+C:\Users\marco\Desktop\demoTello quello che va\obj\Debug\demoTello.csproj.CopyComplete
+C:\Users\marco\Desktop\demoTello quello che va\obj\Debug\demoTello.exe
+C:\Users\marco\Desktop\demoTello quello che va\obj\Debug\demoTello.pdb
+C:\Users\Gabriele\OneDrive\Desktop\demoTello quello che va\bin\Debug\demoTello.exe.config
+C:\Users\Gabriele\OneDrive\Desktop\demoTello quello che va\bin\Debug\demoTello.exe
+C:\Users\Gabriele\OneDrive\Desktop\demoTello quello che va\bin\Debug\demoTello.pdb
+C:\Users\Gabriele\OneDrive\Desktop\demoTello quello che va\bin\Debug\MjpegProcessor.dll
+C:\Users\Gabriele\OneDrive\Desktop\demoTello quello che va\bin\Debug\NLog.dll
+C:\Users\Gabriele\OneDrive\Desktop\demoTello quello che va\bin\Debug\OpenCvSharp.dll
+C:\Users\Gabriele\OneDrive\Desktop\demoTello quello che va\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\Gabriele\OneDrive\Desktop\demoTello quello che va\bin\Debug\SharpDX.DirectInput.dll
+C:\Users\Gabriele\OneDrive\Desktop\demoTello quello che va\bin\Debug\SharpDX.dll
+C:\Users\Gabriele\OneDrive\Desktop\demoTello quello che va\bin\Debug\System.Buffers.dll
+C:\Users\Gabriele\OneDrive\Desktop\demoTello quello che va\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Gabriele\OneDrive\Desktop\demoTello quello che va\bin\Debug\System.Drawing.Common.dll
+C:\Users\Gabriele\OneDrive\Desktop\demoTello quello che va\bin\Debug\System.Memory.dll
+C:\Users\Gabriele\OneDrive\Desktop\demoTello quello che va\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Gabriele\OneDrive\Desktop\demoTello quello che va\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Gabriele\OneDrive\Desktop\demoTello quello che va\bin\Debug\System.ValueTuple.dll
+C:\Users\Gabriele\OneDrive\Desktop\demoTello quello che va\bin\Debug\NLog.xml
+C:\Users\Gabriele\OneDrive\Desktop\demoTello quello che va\bin\Debug\OpenCvSharp.xml
+C:\Users\Gabriele\OneDrive\Desktop\demoTello quello che va\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\Gabriele\OneDrive\Desktop\demoTello quello che va\bin\Debug\SharpDX.pdb
+C:\Users\Gabriele\OneDrive\Desktop\demoTello quello che va\bin\Debug\SharpDX.DirectInput.pdb
+C:\Users\Gabriele\OneDrive\Desktop\demoTello quello che va\bin\Debug\SharpDX.DirectInput.xml
+C:\Users\Gabriele\OneDrive\Desktop\demoTello quello che va\bin\Debug\System.Buffers.xml
+C:\Users\Gabriele\OneDrive\Desktop\demoTello quello che va\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Gabriele\OneDrive\Desktop\demoTello quello che va\bin\Debug\System.Drawing.Common.xml
+C:\Users\Gabriele\OneDrive\Desktop\demoTello quello che va\bin\Debug\System.Memory.xml
+C:\Users\Gabriele\OneDrive\Desktop\demoTello quello che va\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Gabriele\OneDrive\Desktop\demoTello quello che va\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Gabriele\OneDrive\Desktop\demoTello quello che va\bin\Debug\System.ValueTuple.xml
+C:\Users\Gabriele\OneDrive\Desktop\demoTello quello che va\bin\Debug\Interop.WMPLib.dll
+C:\Users\Gabriele\OneDrive\Desktop\demoTello quello che va\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Gabriele\OneDrive\Desktop\demoTello quello che va\obj\Debug\demoTello.csproj.AssemblyReference.cache
+C:\Users\Gabriele\OneDrive\Desktop\demoTello quello che va\obj\Debug\demoTello.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gabriele\OneDrive\Desktop\demoTello quello che va\obj\Debug\Interop.WMPLib.dll
+C:\Users\Gabriele\OneDrive\Desktop\demoTello quello che va\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Gabriele\OneDrive\Desktop\demoTello quello che va\obj\Debug\demoTello.csproj.ResolveComReference.cache
+C:\Users\Gabriele\OneDrive\Desktop\demoTello quello che va\obj\Debug\demoTello.Form1.resources
+C:\Users\Gabriele\OneDrive\Desktop\demoTello quello che va\obj\Debug\demoTello.Form2.resources
+C:\Users\Gabriele\OneDrive\Desktop\demoTello quello che va\obj\Debug\demoTello.Form3.resources
+C:\Users\Gabriele\OneDrive\Desktop\demoTello quello che va\obj\Debug\demoTello.Form4.resources
+C:\Users\Gabriele\OneDrive\Desktop\demoTello quello che va\obj\Debug\demoTello.Properties.Resources.resources
+C:\Users\Gabriele\OneDrive\Desktop\demoTello quello che va\obj\Debug\demoTello.csproj.GenerateResource.cache
+C:\Users\Gabriele\OneDrive\Desktop\demoTello quello che va\obj\Debug\demoTello.csproj.CoreCompileInputs.cache
+C:\Users\Gabriele\OneDrive\Desktop\demoTello quello che va\obj\Debug\demoTello.csproj.CopyComplete
+C:\Users\Gabriele\OneDrive\Desktop\demoTello quello che va\obj\Debug\demoTello.exe
+C:\Users\Gabriele\OneDrive\Desktop\demoTello quello che va\obj\Debug\demoTello.pdb
+C:\Users\User\OneDrive\Desktop\tello\demoTello quello che va\bin\Debug\demoTello.exe.config
+C:\Users\User\OneDrive\Desktop\tello\demoTello quello che va\bin\Debug\demoTello.exe
+C:\Users\User\OneDrive\Desktop\tello\demoTello quello che va\bin\Debug\demoTello.pdb
+C:\Users\User\OneDrive\Desktop\tello\demoTello quello che va\bin\Debug\MjpegProcessor.dll
+C:\Users\User\OneDrive\Desktop\tello\demoTello quello che va\bin\Debug\NLog.dll
+C:\Users\User\OneDrive\Desktop\tello\demoTello quello che va\bin\Debug\OpenCvSharp.dll
+C:\Users\User\OneDrive\Desktop\tello\demoTello quello che va\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\User\OneDrive\Desktop\tello\demoTello quello che va\bin\Debug\SharpDX.DirectInput.dll
+C:\Users\User\OneDrive\Desktop\tello\demoTello quello che va\bin\Debug\SharpDX.dll
+C:\Users\User\OneDrive\Desktop\tello\demoTello quello che va\bin\Debug\System.Buffers.dll
+C:\Users\User\OneDrive\Desktop\tello\demoTello quello che va\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\OneDrive\Desktop\tello\demoTello quello che va\bin\Debug\System.Drawing.Common.dll
+C:\Users\User\OneDrive\Desktop\tello\demoTello quello che va\bin\Debug\System.Memory.dll
+C:\Users\User\OneDrive\Desktop\tello\demoTello quello che va\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\OneDrive\Desktop\tello\demoTello quello che va\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\OneDrive\Desktop\tello\demoTello quello che va\bin\Debug\System.ValueTuple.dll
+C:\Users\User\OneDrive\Desktop\tello\demoTello quello che va\bin\Debug\NLog.xml
+C:\Users\User\OneDrive\Desktop\tello\demoTello quello che va\bin\Debug\OpenCvSharp.xml
+C:\Users\User\OneDrive\Desktop\tello\demoTello quello che va\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\User\OneDrive\Desktop\tello\demoTello quello che va\bin\Debug\SharpDX.pdb
+C:\Users\User\OneDrive\Desktop\tello\demoTello quello che va\bin\Debug\SharpDX.DirectInput.pdb
+C:\Users\User\OneDrive\Desktop\tello\demoTello quello che va\bin\Debug\SharpDX.DirectInput.xml
+C:\Users\User\OneDrive\Desktop\tello\demoTello quello che va\bin\Debug\System.Buffers.xml
+C:\Users\User\OneDrive\Desktop\tello\demoTello quello che va\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\User\OneDrive\Desktop\tello\demoTello quello che va\bin\Debug\System.Drawing.Common.xml
+C:\Users\User\OneDrive\Desktop\tello\demoTello quello che va\bin\Debug\System.Memory.xml
+C:\Users\User\OneDrive\Desktop\tello\demoTello quello che va\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\OneDrive\Desktop\tello\demoTello quello che va\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\OneDrive\Desktop\tello\demoTello quello che va\bin\Debug\System.ValueTuple.xml
+C:\Users\User\OneDrive\Desktop\tello\demoTello quello che va\bin\Debug\Interop.WMPLib.dll
+C:\Users\User\OneDrive\Desktop\tello\demoTello quello che va\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\User\OneDrive\Desktop\tello\demoTello quello che va\obj\Debug\demoTello.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\tello\demoTello quello che va\obj\Debug\demoTello.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Desktop\tello\demoTello quello che va\obj\Debug\Interop.WMPLib.dll
+C:\Users\User\OneDrive\Desktop\tello\demoTello quello che va\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\User\OneDrive\Desktop\tello\demoTello quello che va\obj\Debug\demoTello.csproj.ResolveComReference.cache
+C:\Users\User\OneDrive\Desktop\tello\demoTello quello che va\obj\Debug\demoTello.Form1.resources
+C:\Users\User\OneDrive\Desktop\tello\demoTello quello che va\obj\Debug\demoTello.Form2.resources
+C:\Users\User\OneDrive\Desktop\tello\demoTello quello che va\obj\Debug\demoTello.Form3.resources
+C:\Users\User\OneDrive\Desktop\tello\demoTello quello che va\obj\Debug\demoTello.Form4.resources
+C:\Users\User\OneDrive\Desktop\tello\demoTello quello che va\obj\Debug\demoTello.Properties.Resources.resources
+C:\Users\User\OneDrive\Desktop\tello\demoTello quello che va\obj\Debug\demoTello.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Desktop\tello\demoTello quello che va\obj\Debug\demoTello.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\tello\demoTello quello che va\obj\Debug\demoTello.csproj.CopyComplete
+C:\Users\User\OneDrive\Desktop\tello\demoTello quello che va\obj\Debug\demoTello.exe
+C:\Users\User\OneDrive\Desktop\tello\demoTello quello che va\obj\Debug\demoTello.pdb
+C:\Users\User\OneDrive\Desktop\demoTello QUASI FINITO\bin\Debug\demoTello.exe.config
+C:\Users\User\OneDrive\Desktop\demoTello QUASI FINITO\bin\Debug\demoTello.exe
+C:\Users\User\OneDrive\Desktop\demoTello QUASI FINITO\bin\Debug\demoTello.pdb
+C:\Users\User\OneDrive\Desktop\demoTello QUASI FINITO\bin\Debug\MjpegProcessor.dll
+C:\Users\User\OneDrive\Desktop\demoTello QUASI FINITO\bin\Debug\NLog.dll
+C:\Users\User\OneDrive\Desktop\demoTello QUASI FINITO\bin\Debug\OpenCvSharp.dll
+C:\Users\User\OneDrive\Desktop\demoTello QUASI FINITO\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\User\OneDrive\Desktop\demoTello QUASI FINITO\bin\Debug\SharpDX.DirectInput.dll
+C:\Users\User\OneDrive\Desktop\demoTello QUASI FINITO\bin\Debug\SharpDX.dll
+C:\Users\User\OneDrive\Desktop\demoTello QUASI FINITO\bin\Debug\System.Buffers.dll
+C:\Users\User\OneDrive\Desktop\demoTello QUASI FINITO\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\OneDrive\Desktop\demoTello QUASI FINITO\bin\Debug\System.Drawing.Common.dll
+C:\Users\User\OneDrive\Desktop\demoTello QUASI FINITO\bin\Debug\System.Memory.dll
+C:\Users\User\OneDrive\Desktop\demoTello QUASI FINITO\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\OneDrive\Desktop\demoTello QUASI FINITO\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\OneDrive\Desktop\demoTello QUASI FINITO\bin\Debug\System.ValueTuple.dll
+C:\Users\User\OneDrive\Desktop\demoTello QUASI FINITO\bin\Debug\NLog.xml
+C:\Users\User\OneDrive\Desktop\demoTello QUASI FINITO\bin\Debug\OpenCvSharp.xml
+C:\Users\User\OneDrive\Desktop\demoTello QUASI FINITO\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\User\OneDrive\Desktop\demoTello QUASI FINITO\bin\Debug\SharpDX.pdb
+C:\Users\User\OneDrive\Desktop\demoTello QUASI FINITO\bin\Debug\SharpDX.DirectInput.pdb
+C:\Users\User\OneDrive\Desktop\demoTello QUASI FINITO\bin\Debug\SharpDX.DirectInput.xml
+C:\Users\User\OneDrive\Desktop\demoTello QUASI FINITO\bin\Debug\System.Buffers.xml
+C:\Users\User\OneDrive\Desktop\demoTello QUASI FINITO\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\User\OneDrive\Desktop\demoTello QUASI FINITO\bin\Debug\System.Drawing.Common.xml
+C:\Users\User\OneDrive\Desktop\demoTello QUASI FINITO\bin\Debug\System.Memory.xml
+C:\Users\User\OneDrive\Desktop\demoTello QUASI FINITO\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\OneDrive\Desktop\demoTello QUASI FINITO\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\OneDrive\Desktop\demoTello QUASI FINITO\bin\Debug\System.ValueTuple.xml
+C:\Users\User\OneDrive\Desktop\demoTello QUASI FINITO\bin\Debug\Interop.WMPLib.dll
+C:\Users\User\OneDrive\Desktop\demoTello QUASI FINITO\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\User\OneDrive\Desktop\demoTello QUASI FINITO\obj\Debug\demoTello.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\demoTello QUASI FINITO\obj\Debug\demoTello.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Desktop\demoTello QUASI FINITO\obj\Debug\Interop.WMPLib.dll
+C:\Users\User\OneDrive\Desktop\demoTello QUASI FINITO\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\User\OneDrive\Desktop\demoTello QUASI FINITO\obj\Debug\demoTello.csproj.ResolveComReference.cache
+C:\Users\User\OneDrive\Desktop\demoTello QUASI FINITO\obj\Debug\demoTello.Form1.resources
+C:\Users\User\OneDrive\Desktop\demoTello QUASI FINITO\obj\Debug\demoTello.Form2.resources
+C:\Users\User\OneDrive\Desktop\demoTello QUASI FINITO\obj\Debug\demoTello.Form3.resources
+C:\Users\User\OneDrive\Desktop\demoTello QUASI FINITO\obj\Debug\demoTello.Form4.resources
+C:\Users\User\OneDrive\Desktop\demoTello QUASI FINITO\obj\Debug\demoTello.Properties.Resources.resources
+C:\Users\User\OneDrive\Desktop\demoTello QUASI FINITO\obj\Debug\demoTello.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Desktop\demoTello QUASI FINITO\obj\Debug\demoTello.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\demoTello QUASI FINITO\obj\Debug\demoTello.csproj.CopyComplete
+C:\Users\User\OneDrive\Desktop\demoTello QUASI FINITO\obj\Debug\demoTello.exe
+C:\Users\User\OneDrive\Desktop\demoTello QUASI FINITO\obj\Debug\demoTello.pdb
+C:\Users\User\OneDrive\Desktop\infooo\demoTello QUASI FINITO\demoTello QUASI FINITO\obj\Debug\demoTello.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\infooo\demoTello QUASI FINITO\demoTello QUASI FINITO\obj\Debug\demoTello.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Desktop\infooo\demoTello QUASI FINITO\demoTello QUASI FINITO\obj\Debug\Interop.WMPLib.dll
+C:\Users\User\OneDrive\Desktop\infooo\demoTello QUASI FINITO\demoTello QUASI FINITO\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\User\OneDrive\Desktop\infooo\demoTello QUASI FINITO\demoTello QUASI FINITO\obj\Debug\demoTello.csproj.ResolveComReference.cache
+C:\Users\User\OneDrive\Desktop\infooo\demoTello QUASI FINITO\demoTello QUASI FINITO\obj\Debug\demoTello.exe
+C:\Users\User\OneDrive\Desktop\infooo\demoTello QUASI FINITO\demoTello QUASI FINITO\obj\Debug\demoTello.pdb
+C:\Users\User\OneDrive\Desktop\infooo\demoTello QUASI FINITO\demoTello QUASI FINITO\obj\Debug\demoTello.Form1.resources
+C:\Users\User\OneDrive\Desktop\infooo\demoTello QUASI FINITO\demoTello QUASI FINITO\obj\Debug\demoTello.Form2.resources
+C:\Users\User\OneDrive\Desktop\infooo\demoTello QUASI FINITO\demoTello QUASI FINITO\obj\Debug\demoTello.Form3.resources
+C:\Users\User\OneDrive\Desktop\infooo\demoTello QUASI FINITO\demoTello QUASI FINITO\obj\Debug\demoTello.Form4.resources
+C:\Users\User\OneDrive\Desktop\infooo\demoTello QUASI FINITO\demoTello QUASI FINITO\obj\Debug\demoTello.Properties.Resources.resources
+C:\Users\User\OneDrive\Desktop\infooo\demoTello QUASI FINITO\demoTello QUASI FINITO\obj\Debug\demoTello.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Desktop\infooo\demoTello QUASI FINITO\demoTello QUASI FINITO\obj\Debug\demoTello.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\infooo\demoTello QUASI FINITO\demoTello QUASI FINITO\bin\Debug\demoTello.exe.config
+C:\Users\User\OneDrive\Desktop\infooo\demoTello QUASI FINITO\demoTello QUASI FINITO\bin\Debug\demoTello.exe
+C:\Users\User\OneDrive\Desktop\infooo\demoTello QUASI FINITO\demoTello QUASI FINITO\bin\Debug\demoTello.pdb
+C:\Users\User\OneDrive\Desktop\infooo\demoTello QUASI FINITO\demoTello QUASI FINITO\bin\Debug\MjpegProcessor.dll
+C:\Users\User\OneDrive\Desktop\infooo\demoTello QUASI FINITO\demoTello QUASI FINITO\bin\Debug\NLog.dll
+C:\Users\User\OneDrive\Desktop\infooo\demoTello QUASI FINITO\demoTello QUASI FINITO\bin\Debug\OpenCvSharp.dll
+C:\Users\User\OneDrive\Desktop\infooo\demoTello QUASI FINITO\demoTello QUASI FINITO\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\User\OneDrive\Desktop\infooo\demoTello QUASI FINITO\demoTello QUASI FINITO\bin\Debug\SharpDX.DirectInput.dll
+C:\Users\User\OneDrive\Desktop\infooo\demoTello QUASI FINITO\demoTello QUASI FINITO\bin\Debug\SharpDX.dll
+C:\Users\User\OneDrive\Desktop\infooo\demoTello QUASI FINITO\demoTello QUASI FINITO\bin\Debug\System.Buffers.dll
+C:\Users\User\OneDrive\Desktop\infooo\demoTello QUASI FINITO\demoTello QUASI FINITO\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\OneDrive\Desktop\infooo\demoTello QUASI FINITO\demoTello QUASI FINITO\bin\Debug\System.Drawing.Common.dll
+C:\Users\User\OneDrive\Desktop\infooo\demoTello QUASI FINITO\demoTello QUASI FINITO\bin\Debug\System.Memory.dll
+C:\Users\User\OneDrive\Desktop\infooo\demoTello QUASI FINITO\demoTello QUASI FINITO\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\OneDrive\Desktop\infooo\demoTello QUASI FINITO\demoTello QUASI FINITO\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\OneDrive\Desktop\infooo\demoTello QUASI FINITO\demoTello QUASI FINITO\bin\Debug\System.ValueTuple.dll
+C:\Users\User\OneDrive\Desktop\infooo\demoTello QUASI FINITO\demoTello QUASI FINITO\bin\Debug\NLog.xml
+C:\Users\User\OneDrive\Desktop\infooo\demoTello QUASI FINITO\demoTello QUASI FINITO\bin\Debug\OpenCvSharp.xml
+C:\Users\User\OneDrive\Desktop\infooo\demoTello QUASI FINITO\demoTello QUASI FINITO\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\User\OneDrive\Desktop\infooo\demoTello QUASI FINITO\demoTello QUASI FINITO\bin\Debug\SharpDX.pdb
+C:\Users\User\OneDrive\Desktop\infooo\demoTello QUASI FINITO\demoTello QUASI FINITO\bin\Debug\SharpDX.DirectInput.pdb
+C:\Users\User\OneDrive\Desktop\infooo\demoTello QUASI FINITO\demoTello QUASI FINITO\bin\Debug\SharpDX.DirectInput.xml
+C:\Users\User\OneDrive\Desktop\infooo\demoTello QUASI FINITO\demoTello QUASI FINITO\bin\Debug\System.Buffers.xml
+C:\Users\User\OneDrive\Desktop\infooo\demoTello QUASI FINITO\demoTello QUASI FINITO\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\User\OneDrive\Desktop\infooo\demoTello QUASI FINITO\demoTello QUASI FINITO\bin\Debug\System.Drawing.Common.xml
+C:\Users\User\OneDrive\Desktop\infooo\demoTello QUASI FINITO\demoTello QUASI FINITO\bin\Debug\System.Memory.xml
+C:\Users\User\OneDrive\Desktop\infooo\demoTello QUASI FINITO\demoTello QUASI FINITO\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\OneDrive\Desktop\infooo\demoTello QUASI FINITO\demoTello QUASI FINITO\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\OneDrive\Desktop\infooo\demoTello QUASI FINITO\demoTello QUASI FINITO\bin\Debug\System.ValueTuple.xml
+C:\Users\User\OneDrive\Desktop\infooo\demoTello QUASI FINITO\demoTello QUASI FINITO\bin\Debug\Interop.WMPLib.dll
+C:\Users\User\OneDrive\Desktop\infooo\demoTello QUASI FINITO\demoTello QUASI FINITO\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\User\OneDrive\Desktop\infooo\demoTello QUASI FINITO\demoTello QUASI FINITO\obj\Debug\demoTello.csproj.CopyComplete
+C:\Users\User\OneDrive\Desktop\infooo\demoTello QUASI FINITO\demoTello QUASI FINITO\obj\Debug\demoTello.Form5.resources
+C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\bin\Debug\demoTello.exe.config
+C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\bin\Debug\demoTello.exe
+C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\bin\Debug\demoTello.pdb
+C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\bin\Debug\MjpegProcessor.dll
+C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\bin\Debug\NLog.dll
+C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\bin\Debug\OpenCvSharp.dll
+C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\bin\Debug\SharpDX.DirectInput.dll
+C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\bin\Debug\SharpDX.dll
+C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\bin\Debug\System.Buffers.dll
+C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\bin\Debug\System.Drawing.Common.dll
+C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\bin\Debug\System.Memory.dll
+C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\bin\Debug\System.ValueTuple.dll
+C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\bin\Debug\NLog.xml
+C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\bin\Debug\OpenCvSharp.xml
+C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\bin\Debug\SharpDX.pdb
+C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\bin\Debug\SharpDX.DirectInput.pdb
+C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\bin\Debug\SharpDX.DirectInput.xml
+C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\bin\Debug\System.Buffers.xml
+C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\bin\Debug\System.Drawing.Common.xml
+C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\bin\Debug\System.Memory.xml
+C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\bin\Debug\System.ValueTuple.xml
+C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\bin\Debug\Interop.WMPLib.dll
+C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\obj\Debug\demoTello.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\obj\Debug\demoTello.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\obj\Debug\Interop.WMPLib.dll
+C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\obj\Debug\demoTello.csproj.ResolveComReference.cache
+C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\obj\Debug\demoTello.Form1.resources
+C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\obj\Debug\demoTello.Form2.resources
+C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\obj\Debug\demoTello.Form3.resources
+C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\obj\Debug\demoTello.Form4.resources
+C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\obj\Debug\demoTello.Form5.resources
+C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\obj\Debug\demoTello.Properties.Resources.resources
+C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\obj\Debug\demoTello.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\obj\Debug\demoTello.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\obj\Debug\demoTello.csproj.CopyComplete
+C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\obj\Debug\demoTello.exe
+C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\obj\Debug\demoTello.pdb
+C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\bin\Debug\de\demoTello.resources.dll
+C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\bin\Debug\en\demoTello.resources.dll
+C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\bin\Debug\it\demoTello.resources.dll
+C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\obj\Debug\demoTello.Form4.de.resources
+C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\obj\Debug\demoTello.Form4.en.resources
+C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\obj\Debug\demoTello.Form4.it.resources
+C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\obj\Debug\de\demoTello.resources.dll
+C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\obj\Debug\en\demoTello.resources.dll
+C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\obj\Debug\it\demoTello.resources.dll
+C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\obj\Debug\demoTello.Form2.it.resources
+C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\obj\Debug\demoTello.Form2.de.resources
+C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\obj\Debug\demoTello.Form2.en.resources
+E:\C#\TELLO DRONE CON GRAFICA\bin\Debug\demoTello.exe.config
+E:\C#\TELLO DRONE CON GRAFICA\bin\Debug\demoTello.exe
+E:\C#\TELLO DRONE CON GRAFICA\bin\Debug\demoTello.pdb
+E:\C#\TELLO DRONE CON GRAFICA\bin\Debug\de\demoTello.resources.dll
+E:\C#\TELLO DRONE CON GRAFICA\bin\Debug\en\demoTello.resources.dll
+E:\C#\TELLO DRONE CON GRAFICA\bin\Debug\it\demoTello.resources.dll
+E:\C#\TELLO DRONE CON GRAFICA\bin\Debug\MjpegProcessor.dll
+E:\C#\TELLO DRONE CON GRAFICA\bin\Debug\NLog.dll
+E:\C#\TELLO DRONE CON GRAFICA\bin\Debug\OpenCvSharp.dll
+E:\C#\TELLO DRONE CON GRAFICA\bin\Debug\OpenCvSharp.Extensions.dll
+E:\C#\TELLO DRONE CON GRAFICA\bin\Debug\SharpDX.DirectInput.dll
+E:\C#\TELLO DRONE CON GRAFICA\bin\Debug\SharpDX.dll
+E:\C#\TELLO DRONE CON GRAFICA\bin\Debug\System.Buffers.dll
+E:\C#\TELLO DRONE CON GRAFICA\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\C#\TELLO DRONE CON GRAFICA\bin\Debug\System.Drawing.Common.dll
+E:\C#\TELLO DRONE CON GRAFICA\bin\Debug\System.Memory.dll
+E:\C#\TELLO DRONE CON GRAFICA\bin\Debug\System.Numerics.Vectors.dll
+E:\C#\TELLO DRONE CON GRAFICA\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\C#\TELLO DRONE CON GRAFICA\bin\Debug\System.ValueTuple.dll
+E:\C#\TELLO DRONE CON GRAFICA\bin\Debug\NLog.xml
+E:\C#\TELLO DRONE CON GRAFICA\bin\Debug\OpenCvSharp.xml
+E:\C#\TELLO DRONE CON GRAFICA\bin\Debug\OpenCvSharp.Extensions.xml
+E:\C#\TELLO DRONE CON GRAFICA\bin\Debug\SharpDX.pdb
+E:\C#\TELLO DRONE CON GRAFICA\bin\Debug\SharpDX.DirectInput.pdb
+E:\C#\TELLO DRONE CON GRAFICA\bin\Debug\SharpDX.DirectInput.xml
+E:\C#\TELLO DRONE CON GRAFICA\bin\Debug\System.Buffers.xml
+E:\C#\TELLO DRONE CON GRAFICA\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\C#\TELLO DRONE CON GRAFICA\bin\Debug\System.Drawing.Common.xml
+E:\C#\TELLO DRONE CON GRAFICA\bin\Debug\System.Memory.xml
+E:\C#\TELLO DRONE CON GRAFICA\bin\Debug\System.Numerics.Vectors.xml
+E:\C#\TELLO DRONE CON GRAFICA\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\C#\TELLO DRONE CON GRAFICA\bin\Debug\System.ValueTuple.xml
+E:\C#\TELLO DRONE CON GRAFICA\bin\Debug\Interop.WMPLib.dll
+E:\C#\TELLO DRONE CON GRAFICA\bin\Debug\AxInterop.WMPLib.dll
+E:\C#\TELLO DRONE CON GRAFICA\obj\Debug\demoTello.csproj.AssemblyReference.cache
+E:\C#\TELLO DRONE CON GRAFICA\obj\Debug\demoTello.csproj.SuggestedBindingRedirects.cache
+E:\C#\TELLO DRONE CON GRAFICA\obj\Debug\Interop.WMPLib.dll
+E:\C#\TELLO DRONE CON GRAFICA\obj\Debug\AxInterop.WMPLib.dll
+E:\C#\TELLO DRONE CON GRAFICA\obj\Debug\demoTello.csproj.ResolveComReference.cache
+E:\C#\TELLO DRONE CON GRAFICA\obj\Debug\demoTello.Form1.resources
+E:\C#\TELLO DRONE CON GRAFICA\obj\Debug\demoTello.Form2.resources
+E:\C#\TELLO DRONE CON GRAFICA\obj\Debug\demoTello.Form3.resources
+E:\C#\TELLO DRONE CON GRAFICA\obj\Debug\demoTello.Form4.resources
+E:\C#\TELLO DRONE CON GRAFICA\obj\Debug\demoTello.Form5.resources
+E:\C#\TELLO DRONE CON GRAFICA\obj\Debug\demoTello.Properties.Resources.resources
+E:\C#\TELLO DRONE CON GRAFICA\obj\Debug\demoTello.Form2.de.resources
+E:\C#\TELLO DRONE CON GRAFICA\obj\Debug\demoTello.Form2.en.resources
+E:\C#\TELLO DRONE CON GRAFICA\obj\Debug\demoTello.Form2.it.resources
+E:\C#\TELLO DRONE CON GRAFICA\obj\Debug\demoTello.Form4.de.resources
+E:\C#\TELLO DRONE CON GRAFICA\obj\Debug\demoTello.Form4.en.resources
+E:\C#\TELLO DRONE CON GRAFICA\obj\Debug\demoTello.Form4.it.resources
+E:\C#\TELLO DRONE CON GRAFICA\obj\Debug\demoTello.csproj.GenerateResource.cache
+E:\C#\TELLO DRONE CON GRAFICA\obj\Debug\demoTello.csproj.CoreCompileInputs.cache
+E:\C#\TELLO DRONE CON GRAFICA\obj\Debug\de\demoTello.resources.dll
+E:\C#\TELLO DRONE CON GRAFICA\obj\Debug\en\demoTello.resources.dll
+E:\C#\TELLO DRONE CON GRAFICA\obj\Debug\it\demoTello.resources.dll
+E:\C#\TELLO DRONE CON GRAFICA\obj\Debug\demoTello.csproj.CopyComplete
+E:\C#\TELLO DRONE CON GRAFICA\obj\Debug\demoTello.exe
+E:\C#\TELLO DRONE CON GRAFICA\obj\Debug\demoTello.pdb
+C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\TELLO DRONE CON GRAFICA\bin\Debug\demoTello.exe.config
+C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\TELLO DRONE CON GRAFICA\bin\Debug\demoTello.exe
+C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\TELLO DRONE CON GRAFICA\bin\Debug\demoTello.pdb
+C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\TELLO DRONE CON GRAFICA\bin\Debug\de\demoTello.resources.dll
+C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\TELLO DRONE CON GRAFICA\bin\Debug\en\demoTello.resources.dll
+C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\TELLO DRONE CON GRAFICA\bin\Debug\it\demoTello.resources.dll
+C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\TELLO DRONE CON GRAFICA\bin\Debug\MjpegProcessor.dll
+C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\TELLO DRONE CON GRAFICA\bin\Debug\NLog.dll
+C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\TELLO DRONE CON GRAFICA\bin\Debug\OpenCvSharp.dll
+C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\TELLO DRONE CON GRAFICA\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\TELLO DRONE CON GRAFICA\bin\Debug\SharpDX.DirectInput.dll
+C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\TELLO DRONE CON GRAFICA\bin\Debug\SharpDX.dll
+C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\TELLO DRONE CON GRAFICA\bin\Debug\System.Buffers.dll
+C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\TELLO DRONE CON GRAFICA\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\TELLO DRONE CON GRAFICA\bin\Debug\System.Drawing.Common.dll
+C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\TELLO DRONE CON GRAFICA\bin\Debug\System.Memory.dll
+C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\TELLO DRONE CON GRAFICA\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\TELLO DRONE CON GRAFICA\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\TELLO DRONE CON GRAFICA\bin\Debug\System.ValueTuple.dll
+C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\TELLO DRONE CON GRAFICA\bin\Debug\NLog.xml
+C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\TELLO DRONE CON GRAFICA\bin\Debug\OpenCvSharp.xml
+C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\TELLO DRONE CON GRAFICA\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\TELLO DRONE CON GRAFICA\bin\Debug\SharpDX.pdb
+C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\TELLO DRONE CON GRAFICA\bin\Debug\SharpDX.DirectInput.pdb
+C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\TELLO DRONE CON GRAFICA\bin\Debug\SharpDX.DirectInput.xml
+C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\TELLO DRONE CON GRAFICA\bin\Debug\System.Buffers.xml
+C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\TELLO DRONE CON GRAFICA\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\TELLO DRONE CON GRAFICA\bin\Debug\System.Drawing.Common.xml
+C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\TELLO DRONE CON GRAFICA\bin\Debug\System.Memory.xml
+C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\TELLO DRONE CON GRAFICA\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\TELLO DRONE CON GRAFICA\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\TELLO DRONE CON GRAFICA\bin\Debug\System.ValueTuple.xml
+C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\TELLO DRONE CON GRAFICA\bin\Debug\Interop.WMPLib.dll
+C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\TELLO DRONE CON GRAFICA\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\TELLO DRONE CON GRAFICA\obj\Debug\demoTello.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\TELLO DRONE CON GRAFICA\obj\Debug\demoTello.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\TELLO DRONE CON GRAFICA\obj\Debug\Interop.WMPLib.dll
+C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\TELLO DRONE CON GRAFICA\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\TELLO DRONE CON GRAFICA\obj\Debug\demoTello.csproj.ResolveComReference.cache
+C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\TELLO DRONE CON GRAFICA\obj\Debug\demoTello.Form1.resources
+C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\TELLO DRONE CON GRAFICA\obj\Debug\demoTello.Form2.resources
+C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\TELLO DRONE CON GRAFICA\obj\Debug\demoTello.Form3.resources
+C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\TELLO DRONE CON GRAFICA\obj\Debug\demoTello.Form4.resources
+C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\TELLO DRONE CON GRAFICA\obj\Debug\demoTello.Form5.resources
+C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\TELLO DRONE CON GRAFICA\obj\Debug\demoTello.Properties.Resources.resources
+C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\TELLO DRONE CON GRAFICA\obj\Debug\demoTello.Form2.de.resources
+C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\TELLO DRONE CON GRAFICA\obj\Debug\demoTello.Form2.en.resources
+C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\TELLO DRONE CON GRAFICA\obj\Debug\demoTello.Form2.it.resources
+C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\TELLO DRONE CON GRAFICA\obj\Debug\demoTello.Form4.de.resources
+C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\TELLO DRONE CON GRAFICA\obj\Debug\demoTello.Form4.en.resources
+C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\TELLO DRONE CON GRAFICA\obj\Debug\demoTello.Form4.it.resources
+C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\TELLO DRONE CON GRAFICA\obj\Debug\demoTello.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\TELLO DRONE CON GRAFICA\obj\Debug\demoTello.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\TELLO DRONE CON GRAFICA\obj\Debug\de\demoTello.resources.dll
+C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\TELLO DRONE CON GRAFICA\obj\Debug\en\demoTello.resources.dll
+C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\TELLO DRONE CON GRAFICA\obj\Debug\it\demoTello.resources.dll
+C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\TELLO DRONE CON GRAFICA\obj\Debug\demoTello.csproj.CopyComplete
+C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\TELLO DRONE CON GRAFICA\obj\Debug\demoTello.exe
+C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\TELLO DRONE CON GRAFICA\obj\Debug\demoTello.pdb
+C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\TELLO DRONE CON GRAFICA\bin\Debug\en-SE\demoTello.resources.dll
+C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\TELLO DRONE CON GRAFICA\obj\Debug\demoTello.Form6.resources
+C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\TELLO DRONE CON GRAFICA\obj\Debug\demoTello.Form2.en-SE.resources
+C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\TELLO DRONE CON GRAFICA\obj\Debug\en-SE\demoTello.resources.dll
+C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\TELLO DRONE CON GRAFICA\bin\Debug\hi-IN\demoTello.resources.dll
+C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\TELLO DRONE CON GRAFICA\obj\Debug\demoTello.Form2.hi-IN.resources
+C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\TELLO DRONE CON GRAFICA\obj\Debug\hi-IN\demoTello.resources.dll
+C:\Users\terceros.20153\Desktop\TelloneComand\bin\Debug\demoTello.exe.config
+C:\Users\terceros.20153\Desktop\TelloneComand\bin\Debug\demoTello.exe
+C:\Users\terceros.20153\Desktop\TelloneComand\bin\Debug\demoTello.pdb
+C:\Users\terceros.20153\Desktop\TelloneComand\bin\Debug\de\demoTello.resources.dll
+C:\Users\terceros.20153\Desktop\TelloneComand\bin\Debug\en-SE\demoTello.resources.dll
+C:\Users\terceros.20153\Desktop\TelloneComand\bin\Debug\en\demoTello.resources.dll
+C:\Users\terceros.20153\Desktop\TelloneComand\bin\Debug\hi-IN\demoTello.resources.dll
+C:\Users\terceros.20153\Desktop\TelloneComand\bin\Debug\it\demoTello.resources.dll
+C:\Users\terceros.20153\Desktop\TelloneComand\bin\Debug\MjpegProcessor.dll
+C:\Users\terceros.20153\Desktop\TelloneComand\bin\Debug\NLog.dll
+C:\Users\terceros.20153\Desktop\TelloneComand\bin\Debug\OpenCvSharp.dll
+C:\Users\terceros.20153\Desktop\TelloneComand\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\terceros.20153\Desktop\TelloneComand\bin\Debug\SharpDX.DirectInput.dll
+C:\Users\terceros.20153\Desktop\TelloneComand\bin\Debug\SharpDX.dll
+C:\Users\terceros.20153\Desktop\TelloneComand\bin\Debug\System.Buffers.dll
+C:\Users\terceros.20153\Desktop\TelloneComand\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\terceros.20153\Desktop\TelloneComand\bin\Debug\System.Drawing.Common.dll
+C:\Users\terceros.20153\Desktop\TelloneComand\bin\Debug\System.Memory.dll
+C:\Users\terceros.20153\Desktop\TelloneComand\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\terceros.20153\Desktop\TelloneComand\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\terceros.20153\Desktop\TelloneComand\bin\Debug\System.ValueTuple.dll
+C:\Users\terceros.20153\Desktop\TelloneComand\bin\Debug\NLog.xml
+C:\Users\terceros.20153\Desktop\TelloneComand\bin\Debug\OpenCvSharp.xml
+C:\Users\terceros.20153\Desktop\TelloneComand\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\terceros.20153\Desktop\TelloneComand\bin\Debug\SharpDX.pdb
+C:\Users\terceros.20153\Desktop\TelloneComand\bin\Debug\SharpDX.DirectInput.pdb
+C:\Users\terceros.20153\Desktop\TelloneComand\bin\Debug\SharpDX.DirectInput.xml
+C:\Users\terceros.20153\Desktop\TelloneComand\bin\Debug\System.Buffers.xml
+C:\Users\terceros.20153\Desktop\TelloneComand\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\terceros.20153\Desktop\TelloneComand\bin\Debug\System.Drawing.Common.xml
+C:\Users\terceros.20153\Desktop\TelloneComand\bin\Debug\System.Memory.xml
+C:\Users\terceros.20153\Desktop\TelloneComand\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\terceros.20153\Desktop\TelloneComand\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\terceros.20153\Desktop\TelloneComand\bin\Debug\System.ValueTuple.xml
+C:\Users\terceros.20153\Desktop\TelloneComand\bin\Debug\Interop.WMPLib.dll
+C:\Users\terceros.20153\Desktop\TelloneComand\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\terceros.20153\Desktop\TelloneComand\obj\Debug\demoTello.csproj.AssemblyReference.cache
+C:\Users\terceros.20153\Desktop\TelloneComand\obj\Debug\demoTello.csproj.SuggestedBindingRedirects.cache
+C:\Users\terceros.20153\Desktop\TelloneComand\obj\Debug\Interop.WMPLib.dll
+C:\Users\terceros.20153\Desktop\TelloneComand\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\terceros.20153\Desktop\TelloneComand\obj\Debug\demoTello.csproj.ResolveComReference.cache
+C:\Users\terceros.20153\Desktop\TelloneComand\obj\Debug\demoTello.Form1.resources
+C:\Users\terceros.20153\Desktop\TelloneComand\obj\Debug\demoTello.Form2.resources
+C:\Users\terceros.20153\Desktop\TelloneComand\obj\Debug\demoTello.Form3.resources
+C:\Users\terceros.20153\Desktop\TelloneComand\obj\Debug\demoTello.Form4.resources
+C:\Users\terceros.20153\Desktop\TelloneComand\obj\Debug\demoTello.Form5.resources
+C:\Users\terceros.20153\Desktop\TelloneComand\obj\Debug\demoTello.Form6.resources
+C:\Users\terceros.20153\Desktop\TelloneComand\obj\Debug\demoTello.Properties.Resources.resources
+C:\Users\terceros.20153\Desktop\TelloneComand\obj\Debug\demoTello.Form2.de.resources
+C:\Users\terceros.20153\Desktop\TelloneComand\obj\Debug\demoTello.Form2.en-SE.resources
+C:\Users\terceros.20153\Desktop\TelloneComand\obj\Debug\demoTello.Form2.en.resources
+C:\Users\terceros.20153\Desktop\TelloneComand\obj\Debug\demoTello.Form2.hi-IN.resources
+C:\Users\terceros.20153\Desktop\TelloneComand\obj\Debug\demoTello.Form2.it.resources
+C:\Users\terceros.20153\Desktop\TelloneComand\obj\Debug\demoTello.Form4.de.resources
+C:\Users\terceros.20153\Desktop\TelloneComand\obj\Debug\demoTello.Form4.en.resources
+C:\Users\terceros.20153\Desktop\TelloneComand\obj\Debug\demoTello.Form4.it.resources
+C:\Users\terceros.20153\Desktop\TelloneComand\obj\Debug\demoTello.csproj.GenerateResource.cache
+C:\Users\terceros.20153\Desktop\TelloneComand\obj\Debug\demoTello.csproj.CoreCompileInputs.cache
+C:\Users\terceros.20153\Desktop\TelloneComand\obj\Debug\de\demoTello.resources.dll
+C:\Users\terceros.20153\Desktop\TelloneComand\obj\Debug\en-SE\demoTello.resources.dll
+C:\Users\terceros.20153\Desktop\TelloneComand\obj\Debug\en\demoTello.resources.dll
+C:\Users\terceros.20153\Desktop\TelloneComand\obj\Debug\hi-IN\demoTello.resources.dll
+C:\Users\terceros.20153\Desktop\TelloneComand\obj\Debug\it\demoTello.resources.dll
+C:\Users\terceros.20153\Desktop\TelloneComand\obj\Debug\demoTello.csproj.CopyComplete
+C:\Users\terceros.20153\Desktop\TelloneComand\obj\Debug\demoTello.exe
+C:\Users\terceros.20153\Desktop\TelloneComand\obj\Debug\demoTello.pdb
