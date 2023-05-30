@@ -1,0 +1,87 @@
+C:\Users\User\OneDrive\Desktop\infooo\Streaming\obj\Debug\Streaming.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\infooo\Streaming\obj\Debug\Streaming.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Desktop\infooo\Streaming\obj\Debug\Streaming.Form1.resources
+C:\Users\User\OneDrive\Desktop\infooo\Streaming\obj\Debug\Streaming.Properties.Resources.resources
+C:\Users\User\OneDrive\Desktop\infooo\Streaming\obj\Debug\Streaming.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Desktop\infooo\Streaming\obj\Debug\Streaming.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\infooo\Streaming\bin\Debug\Streaming.exe.config
+C:\Users\User\OneDrive\Desktop\infooo\Streaming\bin\Debug\Streaming.exe
+C:\Users\User\OneDrive\Desktop\infooo\Streaming\bin\Debug\Streaming.pdb
+C:\Users\User\OneDrive\Desktop\infooo\Streaming\bin\Debug\MjpegProcessor.dll
+C:\Users\User\OneDrive\Desktop\infooo\Streaming\bin\Debug\NLog.dll
+C:\Users\User\OneDrive\Desktop\infooo\Streaming\bin\Debug\OpenCvSharp.dll
+C:\Users\User\OneDrive\Desktop\infooo\Streaming\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\User\OneDrive\Desktop\infooo\Streaming\bin\Debug\System.Buffers.dll
+C:\Users\User\OneDrive\Desktop\infooo\Streaming\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\OneDrive\Desktop\infooo\Streaming\bin\Debug\System.Drawing.Common.dll
+C:\Users\User\OneDrive\Desktop\infooo\Streaming\bin\Debug\System.Memory.dll
+C:\Users\User\OneDrive\Desktop\infooo\Streaming\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\OneDrive\Desktop\infooo\Streaming\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\OneDrive\Desktop\infooo\Streaming\bin\Debug\NLog.xml
+C:\Users\User\OneDrive\Desktop\infooo\Streaming\bin\Debug\OpenCvSharp.xml
+C:\Users\User\OneDrive\Desktop\infooo\Streaming\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\User\OneDrive\Desktop\infooo\Streaming\bin\Debug\System.Buffers.xml
+C:\Users\User\OneDrive\Desktop\infooo\Streaming\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\User\OneDrive\Desktop\infooo\Streaming\bin\Debug\System.Memory.xml
+C:\Users\User\OneDrive\Desktop\infooo\Streaming\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\OneDrive\Desktop\infooo\Streaming\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\OneDrive\Desktop\infooo\Streaming\obj\Debug\Streaming.csproj.CopyComplete
+C:\Users\User\OneDrive\Desktop\infooo\Streaming\obj\Debug\Streaming.exe
+C:\Users\User\OneDrive\Desktop\infooo\Streaming\obj\Debug\Streaming.pdb
+C:\Users\marco\Desktop\SkyEye 1.5\Streaming\bin\Debug\Streaming.exe.config
+C:\Users\marco\Desktop\SkyEye 1.5\Streaming\bin\Debug\Streaming.exe
+C:\Users\marco\Desktop\SkyEye 1.5\Streaming\bin\Debug\Streaming.pdb
+C:\Users\marco\Desktop\SkyEye 1.5\Streaming\bin\Debug\System.Buffers.dll
+C:\Users\marco\Desktop\SkyEye 1.5\Streaming\bin\Debug\System.Console.dll
+C:\Users\marco\Desktop\SkyEye 1.5\Streaming\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\marco\Desktop\SkyEye 1.5\Streaming\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\marco\Desktop\SkyEye 1.5\Streaming\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\marco\Desktop\SkyEye 1.5\Streaming\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\marco\Desktop\SkyEye 1.5\Streaming\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\marco\Desktop\SkyEye 1.5\Streaming\obj\Debug\Streaming.csproj.AssemblyReference.cache
+C:\Users\marco\Desktop\SkyEye 1.5\Streaming\obj\Debug\Streaming.csproj.SuggestedBindingRedirects.cache
+C:\Users\marco\Desktop\SkyEye 1.5\Streaming\obj\Debug\Streaming.Form1.resources
+C:\Users\marco\Desktop\SkyEye 1.5\Streaming\obj\Debug\Streaming.Properties.Resources.resources
+C:\Users\marco\Desktop\SkyEye 1.5\Streaming\obj\Debug\Streaming.csproj.GenerateResource.cache
+C:\Users\marco\Desktop\SkyEye 1.5\Streaming\obj\Debug\Streaming.csproj.CoreCompileInputs.cache
+C:\Users\marco\Desktop\SkyEye 1.5\Streaming\obj\Debug\Streaming.csproj.CopyComplete
+C:\Users\marco\Desktop\SkyEye 1.5\Streaming\obj\Debug\Streaming.exe
+C:\Users\marco\Desktop\SkyEye 1.5\Streaming\obj\Debug\Streaming.pdb
+C:\Users\marco\Desktop\New\SkyEye 1.5\Streaming\bin\Debug\Streaming.exe.config
+C:\Users\marco\Desktop\New\SkyEye 1.5\Streaming\bin\Debug\Streaming.exe
+C:\Users\marco\Desktop\New\SkyEye 1.5\Streaming\bin\Debug\Streaming.pdb
+C:\Users\marco\Desktop\New\SkyEye 1.5\Streaming\bin\Debug\System.Buffers.dll
+C:\Users\marco\Desktop\New\SkyEye 1.5\Streaming\bin\Debug\System.Console.dll
+C:\Users\marco\Desktop\New\SkyEye 1.5\Streaming\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\marco\Desktop\New\SkyEye 1.5\Streaming\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\marco\Desktop\New\SkyEye 1.5\Streaming\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\marco\Desktop\New\SkyEye 1.5\Streaming\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\marco\Desktop\New\SkyEye 1.5\Streaming\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\marco\Desktop\New\SkyEye 1.5\Streaming\obj\Debug\Streaming.csproj.AssemblyReference.cache
+C:\Users\marco\Desktop\New\SkyEye 1.5\Streaming\obj\Debug\Streaming.csproj.SuggestedBindingRedirects.cache
+C:\Users\marco\Desktop\New\SkyEye 1.5\Streaming\obj\Debug\Streaming.Form1.resources
+C:\Users\marco\Desktop\New\SkyEye 1.5\Streaming\obj\Debug\Streaming.Properties.Resources.resources
+C:\Users\marco\Desktop\New\SkyEye 1.5\Streaming\obj\Debug\Streaming.csproj.GenerateResource.cache
+C:\Users\marco\Desktop\New\SkyEye 1.5\Streaming\obj\Debug\Streaming.csproj.CoreCompileInputs.cache
+C:\Users\marco\Desktop\New\SkyEye 1.5\Streaming\obj\Debug\Streaming.csproj.CopyComplete
+C:\Users\marco\Desktop\New\SkyEye 1.5\Streaming\obj\Debug\Streaming.exe
+C:\Users\marco\Desktop\New\SkyEye 1.5\Streaming\obj\Debug\Streaming.pdb
+C:\Users\marco\Desktop\SkyEye\SkyEye 1.5\Streaming\bin\Debug\Streaming.exe.config
+C:\Users\marco\Desktop\SkyEye\SkyEye 1.5\Streaming\bin\Debug\Streaming.exe
+C:\Users\marco\Desktop\SkyEye\SkyEye 1.5\Streaming\bin\Debug\Streaming.pdb
+C:\Users\marco\Desktop\SkyEye\SkyEye 1.5\Streaming\bin\Debug\System.Buffers.dll
+C:\Users\marco\Desktop\SkyEye\SkyEye 1.5\Streaming\bin\Debug\System.Console.dll
+C:\Users\marco\Desktop\SkyEye\SkyEye 1.5\Streaming\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\marco\Desktop\SkyEye\SkyEye 1.5\Streaming\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\marco\Desktop\SkyEye\SkyEye 1.5\Streaming\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\marco\Desktop\SkyEye\SkyEye 1.5\Streaming\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\marco\Desktop\SkyEye\SkyEye 1.5\Streaming\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\marco\Desktop\SkyEye\SkyEye 1.5\Streaming\obj\Debug\Streaming.csproj.AssemblyReference.cache
+C:\Users\marco\Desktop\SkyEye\SkyEye 1.5\Streaming\obj\Debug\Streaming.csproj.SuggestedBindingRedirects.cache
+C:\Users\marco\Desktop\SkyEye\SkyEye 1.5\Streaming\obj\Debug\Streaming.Form1.resources
+C:\Users\marco\Desktop\SkyEye\SkyEye 1.5\Streaming\obj\Debug\Streaming.Properties.Resources.resources
+C:\Users\marco\Desktop\SkyEye\SkyEye 1.5\Streaming\obj\Debug\Streaming.csproj.GenerateResource.cache
+C:\Users\marco\Desktop\SkyEye\SkyEye 1.5\Streaming\obj\Debug\Streaming.csproj.CoreCompileInputs.cache
+C:\Users\marco\Desktop\SkyEye\SkyEye 1.5\Streaming\obj\Debug\Streaming.csproj.CopyComplete
+C:\Users\marco\Desktop\SkyEye\SkyEye 1.5\Streaming\obj\Debug\Streaming.exe
+C:\Users\marco\Desktop\SkyEye\SkyEye 1.5\Streaming\obj\Debug\Streaming.pdb

@@ -619,69 +619,76 @@ C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\TELLO DRONE CON GR
 C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\TELLO DRONE CON GRAFICA\bin\Debug\hi-IN\demoTello.resources.dll
 C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\TELLO DRONE CON GRAFICA\obj\Debug\demoTello.Form2.hi-IN.resources
 C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\TELLO DRONE CON GRAFICA\obj\Debug\hi-IN\demoTello.resources.dll
-C:\Users\terceros.20153\Desktop\TelloneComand\bin\Debug\demoTello.exe.config
-C:\Users\terceros.20153\Desktop\TelloneComand\bin\Debug\demoTello.exe
-C:\Users\terceros.20153\Desktop\TelloneComand\bin\Debug\demoTello.pdb
-C:\Users\terceros.20153\Desktop\TelloneComand\bin\Debug\de\demoTello.resources.dll
-C:\Users\terceros.20153\Desktop\TelloneComand\bin\Debug\en-SE\demoTello.resources.dll
-C:\Users\terceros.20153\Desktop\TelloneComand\bin\Debug\en\demoTello.resources.dll
-C:\Users\terceros.20153\Desktop\TelloneComand\bin\Debug\hi-IN\demoTello.resources.dll
-C:\Users\terceros.20153\Desktop\TelloneComand\bin\Debug\it\demoTello.resources.dll
-C:\Users\terceros.20153\Desktop\TelloneComand\bin\Debug\MjpegProcessor.dll
-C:\Users\terceros.20153\Desktop\TelloneComand\bin\Debug\NLog.dll
-C:\Users\terceros.20153\Desktop\TelloneComand\bin\Debug\OpenCvSharp.dll
-C:\Users\terceros.20153\Desktop\TelloneComand\bin\Debug\OpenCvSharp.Extensions.dll
-C:\Users\terceros.20153\Desktop\TelloneComand\bin\Debug\SharpDX.DirectInput.dll
-C:\Users\terceros.20153\Desktop\TelloneComand\bin\Debug\SharpDX.dll
-C:\Users\terceros.20153\Desktop\TelloneComand\bin\Debug\System.Buffers.dll
-C:\Users\terceros.20153\Desktop\TelloneComand\bin\Debug\System.Diagnostics.DiagnosticSource.dll
-C:\Users\terceros.20153\Desktop\TelloneComand\bin\Debug\System.Drawing.Common.dll
-C:\Users\terceros.20153\Desktop\TelloneComand\bin\Debug\System.Memory.dll
-C:\Users\terceros.20153\Desktop\TelloneComand\bin\Debug\System.Numerics.Vectors.dll
-C:\Users\terceros.20153\Desktop\TelloneComand\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
-C:\Users\terceros.20153\Desktop\TelloneComand\bin\Debug\System.ValueTuple.dll
-C:\Users\terceros.20153\Desktop\TelloneComand\bin\Debug\NLog.xml
-C:\Users\terceros.20153\Desktop\TelloneComand\bin\Debug\OpenCvSharp.xml
-C:\Users\terceros.20153\Desktop\TelloneComand\bin\Debug\OpenCvSharp.Extensions.xml
-C:\Users\terceros.20153\Desktop\TelloneComand\bin\Debug\SharpDX.pdb
-C:\Users\terceros.20153\Desktop\TelloneComand\bin\Debug\SharpDX.DirectInput.pdb
-C:\Users\terceros.20153\Desktop\TelloneComand\bin\Debug\SharpDX.DirectInput.xml
-C:\Users\terceros.20153\Desktop\TelloneComand\bin\Debug\System.Buffers.xml
-C:\Users\terceros.20153\Desktop\TelloneComand\bin\Debug\System.Diagnostics.DiagnosticSource.xml
-C:\Users\terceros.20153\Desktop\TelloneComand\bin\Debug\System.Drawing.Common.xml
-C:\Users\terceros.20153\Desktop\TelloneComand\bin\Debug\System.Memory.xml
-C:\Users\terceros.20153\Desktop\TelloneComand\bin\Debug\System.Numerics.Vectors.xml
-C:\Users\terceros.20153\Desktop\TelloneComand\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
-C:\Users\terceros.20153\Desktop\TelloneComand\bin\Debug\System.ValueTuple.xml
-C:\Users\terceros.20153\Desktop\TelloneComand\bin\Debug\Interop.WMPLib.dll
-C:\Users\terceros.20153\Desktop\TelloneComand\bin\Debug\AxInterop.WMPLib.dll
-C:\Users\terceros.20153\Desktop\TelloneComand\obj\Debug\demoTello.csproj.AssemblyReference.cache
-C:\Users\terceros.20153\Desktop\TelloneComand\obj\Debug\demoTello.csproj.SuggestedBindingRedirects.cache
-C:\Users\terceros.20153\Desktop\TelloneComand\obj\Debug\Interop.WMPLib.dll
-C:\Users\terceros.20153\Desktop\TelloneComand\obj\Debug\AxInterop.WMPLib.dll
-C:\Users\terceros.20153\Desktop\TelloneComand\obj\Debug\demoTello.csproj.ResolveComReference.cache
-C:\Users\terceros.20153\Desktop\TelloneComand\obj\Debug\demoTello.Form1.resources
-C:\Users\terceros.20153\Desktop\TelloneComand\obj\Debug\demoTello.Form2.resources
-C:\Users\terceros.20153\Desktop\TelloneComand\obj\Debug\demoTello.Form3.resources
-C:\Users\terceros.20153\Desktop\TelloneComand\obj\Debug\demoTello.Form4.resources
-C:\Users\terceros.20153\Desktop\TelloneComand\obj\Debug\demoTello.Form5.resources
-C:\Users\terceros.20153\Desktop\TelloneComand\obj\Debug\demoTello.Form6.resources
-C:\Users\terceros.20153\Desktop\TelloneComand\obj\Debug\demoTello.Properties.Resources.resources
-C:\Users\terceros.20153\Desktop\TelloneComand\obj\Debug\demoTello.Form2.de.resources
-C:\Users\terceros.20153\Desktop\TelloneComand\obj\Debug\demoTello.Form2.en-SE.resources
-C:\Users\terceros.20153\Desktop\TelloneComand\obj\Debug\demoTello.Form2.en.resources
-C:\Users\terceros.20153\Desktop\TelloneComand\obj\Debug\demoTello.Form2.hi-IN.resources
-C:\Users\terceros.20153\Desktop\TelloneComand\obj\Debug\demoTello.Form2.it.resources
-C:\Users\terceros.20153\Desktop\TelloneComand\obj\Debug\demoTello.Form4.de.resources
-C:\Users\terceros.20153\Desktop\TelloneComand\obj\Debug\demoTello.Form4.en.resources
-C:\Users\terceros.20153\Desktop\TelloneComand\obj\Debug\demoTello.Form4.it.resources
-C:\Users\terceros.20153\Desktop\TelloneComand\obj\Debug\demoTello.csproj.GenerateResource.cache
-C:\Users\terceros.20153\Desktop\TelloneComand\obj\Debug\demoTello.csproj.CoreCompileInputs.cache
-C:\Users\terceros.20153\Desktop\TelloneComand\obj\Debug\de\demoTello.resources.dll
-C:\Users\terceros.20153\Desktop\TelloneComand\obj\Debug\en-SE\demoTello.resources.dll
-C:\Users\terceros.20153\Desktop\TelloneComand\obj\Debug\en\demoTello.resources.dll
-C:\Users\terceros.20153\Desktop\TelloneComand\obj\Debug\hi-IN\demoTello.resources.dll
-C:\Users\terceros.20153\Desktop\TelloneComand\obj\Debug\it\demoTello.resources.dll
-C:\Users\terceros.20153\Desktop\TelloneComand\obj\Debug\demoTello.csproj.CopyComplete
-C:\Users\terceros.20153\Desktop\TelloneComand\obj\Debug\demoTello.exe
-C:\Users\terceros.20153\Desktop\TelloneComand\obj\Debug\demoTello.pdb
+C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\bin\Debug\en-SE\demoTello.resources.dll
+C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\bin\Debug\hi-IN\demoTello.resources.dll
+C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\obj\Debug\demoTello.Form6.resources
+C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\obj\Debug\demoTello.Form2.en-SE.resources
+C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\obj\Debug\demoTello.Form2.hi-IN.resources
+C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\obj\Debug\en-SE\demoTello.resources.dll
+C:\Users\User\OneDrive\Desktop\infooo\TELLO DRONE CON GRAFICA\obj\Debug\hi-IN\demoTello.resources.dll
+C:\Users\marco\Desktop\SkyEye 1.5\obj\Debug\demoTello.csproj.AssemblyReference.cache
+C:\Users\marco\Desktop\SkyEye 1.5\obj\Debug\demoTello.csproj.SuggestedBindingRedirects.cache
+C:\Users\marco\Desktop\SkyEye 1.5\obj\Debug\Interop.WMPLib.dll
+C:\Users\marco\Desktop\SkyEye 1.5\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\marco\Desktop\SkyEye 1.5\obj\Debug\demoTello.csproj.ResolveComReference.cache
+C:\Users\marco\Desktop\SkyEye 1.5\obj\Debug\demoTello.exe
+C:\Users\marco\Desktop\SkyEye 1.5\obj\Debug\demoTello.pdb
+C:\Users\marco\Desktop\SkyEye 1.5\obj\Debug\demoTello.Form1.resources
+C:\Users\marco\Desktop\SkyEye 1.5\obj\Debug\demoTello.Form2.resources
+C:\Users\marco\Desktop\SkyEye 1.5\obj\Debug\demoTello.Form3.resources
+C:\Users\marco\Desktop\SkyEye 1.5\obj\Debug\demoTello.Form4.resources
+C:\Users\marco\Desktop\SkyEye 1.5\obj\Debug\demoTello.Form5.resources
+C:\Users\marco\Desktop\SkyEye 1.5\obj\Debug\demoTello.Form6.resources
+C:\Users\marco\Desktop\SkyEye 1.5\obj\Debug\demoTello.Form2.de.resources
+C:\Users\marco\Desktop\SkyEye 1.5\obj\Debug\demoTello.Form2.en-SE.resources
+C:\Users\marco\Desktop\SkyEye 1.5\obj\Debug\demoTello.Form2.en.resources
+C:\Users\marco\Desktop\SkyEye 1.5\obj\Debug\demoTello.Form2.hi-IN.resources
+C:\Users\marco\Desktop\SkyEye 1.5\obj\Debug\demoTello.Form2.it.resources
+C:\Users\marco\Desktop\SkyEye 1.5\obj\Debug\demoTello.Form4.de.resources
+C:\Users\marco\Desktop\SkyEye 1.5\obj\Debug\demoTello.Form4.en.resources
+C:\Users\marco\Desktop\SkyEye 1.5\obj\Debug\demoTello.Form4.it.resources
+C:\Users\marco\Desktop\SkyEye 1.5\obj\Debug\demoTello.csproj.GenerateResource.cache
+C:\Users\marco\Desktop\SkyEye 1.5\obj\Debug\demoTello.Properties.Resources.resources
+C:\Users\marco\Desktop\SkyEye 1.5\obj\Debug\demoTello.csproj.CoreCompileInputs.cache
+C:\Users\marco\Desktop\SkyEye 1.5\bin\Debug\demoTello.exe.config
+C:\Users\marco\Desktop\SkyEye 1.5\bin\Debug\demoTello.exe
+C:\Users\marco\Desktop\SkyEye 1.5\bin\Debug\demoTello.pdb
+C:\Users\marco\Desktop\SkyEye 1.5\bin\Debug\de\demoTello.resources.dll
+C:\Users\marco\Desktop\SkyEye 1.5\bin\Debug\en-SE\demoTello.resources.dll
+C:\Users\marco\Desktop\SkyEye 1.5\bin\Debug\en\demoTello.resources.dll
+C:\Users\marco\Desktop\SkyEye 1.5\bin\Debug\hi-IN\demoTello.resources.dll
+C:\Users\marco\Desktop\SkyEye 1.5\bin\Debug\it\demoTello.resources.dll
+C:\Users\marco\Desktop\SkyEye 1.5\bin\Debug\MjpegProcessor.dll
+C:\Users\marco\Desktop\SkyEye 1.5\bin\Debug\NLog.dll
+C:\Users\marco\Desktop\SkyEye 1.5\bin\Debug\OpenCvSharp.dll
+C:\Users\marco\Desktop\SkyEye 1.5\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\marco\Desktop\SkyEye 1.5\bin\Debug\SharpDX.DirectInput.dll
+C:\Users\marco\Desktop\SkyEye 1.5\bin\Debug\SharpDX.dll
+C:\Users\marco\Desktop\SkyEye 1.5\bin\Debug\System.Buffers.dll
+C:\Users\marco\Desktop\SkyEye 1.5\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\marco\Desktop\SkyEye 1.5\bin\Debug\System.Drawing.Common.dll
+C:\Users\marco\Desktop\SkyEye 1.5\bin\Debug\System.Memory.dll
+C:\Users\marco\Desktop\SkyEye 1.5\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\marco\Desktop\SkyEye 1.5\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\marco\Desktop\SkyEye 1.5\bin\Debug\System.ValueTuple.dll
+C:\Users\marco\Desktop\SkyEye 1.5\bin\Debug\NLog.xml
+C:\Users\marco\Desktop\SkyEye 1.5\bin\Debug\OpenCvSharp.xml
+C:\Users\marco\Desktop\SkyEye 1.5\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\marco\Desktop\SkyEye 1.5\bin\Debug\SharpDX.pdb
+C:\Users\marco\Desktop\SkyEye 1.5\bin\Debug\SharpDX.DirectInput.pdb
+C:\Users\marco\Desktop\SkyEye 1.5\bin\Debug\SharpDX.DirectInput.xml
+C:\Users\marco\Desktop\SkyEye 1.5\bin\Debug\System.Buffers.xml
+C:\Users\marco\Desktop\SkyEye 1.5\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\marco\Desktop\SkyEye 1.5\bin\Debug\System.Drawing.Common.xml
+C:\Users\marco\Desktop\SkyEye 1.5\bin\Debug\System.Memory.xml
+C:\Users\marco\Desktop\SkyEye 1.5\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\marco\Desktop\SkyEye 1.5\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\marco\Desktop\SkyEye 1.5\bin\Debug\System.ValueTuple.xml
+C:\Users\marco\Desktop\SkyEye 1.5\bin\Debug\Interop.WMPLib.dll
+C:\Users\marco\Desktop\SkyEye 1.5\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\marco\Desktop\SkyEye 1.5\obj\Debug\de\demoTello.resources.dll
+C:\Users\marco\Desktop\SkyEye 1.5\obj\Debug\en-SE\demoTello.resources.dll
+C:\Users\marco\Desktop\SkyEye 1.5\obj\Debug\en\demoTello.resources.dll
+C:\Users\marco\Desktop\SkyEye 1.5\obj\Debug\hi-IN\demoTello.resources.dll
+C:\Users\marco\Desktop\SkyEye 1.5\obj\Debug\it\demoTello.resources.dll
+C:\Users\marco\Desktop\SkyEye 1.5\obj\Debug\demoTello.csproj.CopyComplete
