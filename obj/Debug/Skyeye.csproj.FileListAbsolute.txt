@@ -64,135 +64,359 @@ C:\Users\marco\Desktop\SkyEye 1.5\obj\Debug\it\demoTello.resources.dll
 C:\Users\marco\Desktop\SkyEye 1.5\obj\Debug\Skyeye.csproj.CopyComplete
 C:\Users\marco\Desktop\SkyEye 1.5\obj\Debug\demoTello.exe
 C:\Users\marco\Desktop\SkyEye 1.5\obj\Debug\demoTello.pdb
-C:\Users\marco\Desktop\New\SkyEye 1.5\bin\Debug\demoTello.exe.config
-C:\Users\marco\Desktop\New\SkyEye 1.5\bin\Debug\demoTello.exe
-C:\Users\marco\Desktop\New\SkyEye 1.5\bin\Debug\demoTello.pdb
-C:\Users\marco\Desktop\New\SkyEye 1.5\bin\Debug\de\demoTello.resources.dll
-C:\Users\marco\Desktop\New\SkyEye 1.5\bin\Debug\en-SE\demoTello.resources.dll
-C:\Users\marco\Desktop\New\SkyEye 1.5\bin\Debug\en\demoTello.resources.dll
-C:\Users\marco\Desktop\New\SkyEye 1.5\bin\Debug\hi-IN\demoTello.resources.dll
-C:\Users\marco\Desktop\New\SkyEye 1.5\bin\Debug\it\demoTello.resources.dll
-C:\Users\marco\Desktop\New\SkyEye 1.5\bin\Debug\MjpegProcessor.dll
-C:\Users\marco\Desktop\New\SkyEye 1.5\bin\Debug\NLog.dll
-C:\Users\marco\Desktop\New\SkyEye 1.5\bin\Debug\OpenCvSharp.dll
-C:\Users\marco\Desktop\New\SkyEye 1.5\bin\Debug\OpenCvSharp.Extensions.dll
-C:\Users\marco\Desktop\New\SkyEye 1.5\bin\Debug\SharpDX.DirectInput.dll
-C:\Users\marco\Desktop\New\SkyEye 1.5\bin\Debug\SharpDX.dll
-C:\Users\marco\Desktop\New\SkyEye 1.5\bin\Debug\System.Buffers.dll
-C:\Users\marco\Desktop\New\SkyEye 1.5\bin\Debug\System.Diagnostics.DiagnosticSource.dll
-C:\Users\marco\Desktop\New\SkyEye 1.5\bin\Debug\System.Drawing.Common.dll
-C:\Users\marco\Desktop\New\SkyEye 1.5\bin\Debug\System.Memory.dll
-C:\Users\marco\Desktop\New\SkyEye 1.5\bin\Debug\System.Numerics.Vectors.dll
-C:\Users\marco\Desktop\New\SkyEye 1.5\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
-C:\Users\marco\Desktop\New\SkyEye 1.5\bin\Debug\System.ValueTuple.dll
-C:\Users\marco\Desktop\New\SkyEye 1.5\bin\Debug\NLog.xml
-C:\Users\marco\Desktop\New\SkyEye 1.5\bin\Debug\OpenCvSharp.xml
-C:\Users\marco\Desktop\New\SkyEye 1.5\bin\Debug\OpenCvSharp.Extensions.xml
-C:\Users\marco\Desktop\New\SkyEye 1.5\bin\Debug\SharpDX.pdb
-C:\Users\marco\Desktop\New\SkyEye 1.5\bin\Debug\SharpDX.DirectInput.pdb
-C:\Users\marco\Desktop\New\SkyEye 1.5\bin\Debug\SharpDX.DirectInput.xml
-C:\Users\marco\Desktop\New\SkyEye 1.5\bin\Debug\System.Buffers.xml
-C:\Users\marco\Desktop\New\SkyEye 1.5\bin\Debug\System.Diagnostics.DiagnosticSource.xml
-C:\Users\marco\Desktop\New\SkyEye 1.5\bin\Debug\System.Drawing.Common.xml
-C:\Users\marco\Desktop\New\SkyEye 1.5\bin\Debug\System.Memory.xml
-C:\Users\marco\Desktop\New\SkyEye 1.5\bin\Debug\System.Numerics.Vectors.xml
-C:\Users\marco\Desktop\New\SkyEye 1.5\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
-C:\Users\marco\Desktop\New\SkyEye 1.5\bin\Debug\System.ValueTuple.xml
-C:\Users\marco\Desktop\New\SkyEye 1.5\bin\Debug\Interop.WMPLib.dll
-C:\Users\marco\Desktop\New\SkyEye 1.5\bin\Debug\AxInterop.WMPLib.dll
-C:\Users\marco\Desktop\New\SkyEye 1.5\obj\Debug\SkyEye.csproj.AssemblyReference.cache
-C:\Users\marco\Desktop\New\SkyEye 1.5\obj\Debug\SkyEye.csproj.SuggestedBindingRedirects.cache
-C:\Users\marco\Desktop\New\SkyEye 1.5\obj\Debug\Interop.WMPLib.dll
-C:\Users\marco\Desktop\New\SkyEye 1.5\obj\Debug\AxInterop.WMPLib.dll
-C:\Users\marco\Desktop\New\SkyEye 1.5\obj\Debug\SkyEye.csproj.ResolveComReference.cache
-C:\Users\marco\Desktop\New\SkyEye 1.5\obj\Debug\demoTello.Form1.resources
-C:\Users\marco\Desktop\New\SkyEye 1.5\obj\Debug\demoTello.Form2.resources
-C:\Users\marco\Desktop\New\SkyEye 1.5\obj\Debug\demoTello.Form3.resources
-C:\Users\marco\Desktop\New\SkyEye 1.5\obj\Debug\demoTello.Form4.resources
-C:\Users\marco\Desktop\New\SkyEye 1.5\obj\Debug\demoTello.Form5.resources
-C:\Users\marco\Desktop\New\SkyEye 1.5\obj\Debug\demoTello.Form6.resources
-C:\Users\marco\Desktop\New\SkyEye 1.5\obj\Debug\demoTello.Properties.Resources.resources
-C:\Users\marco\Desktop\New\SkyEye 1.5\obj\Debug\demoTello.Form2.de.resources
-C:\Users\marco\Desktop\New\SkyEye 1.5\obj\Debug\demoTello.Form2.en-SE.resources
-C:\Users\marco\Desktop\New\SkyEye 1.5\obj\Debug\demoTello.Form2.en.resources
-C:\Users\marco\Desktop\New\SkyEye 1.5\obj\Debug\demoTello.Form2.hi-IN.resources
-C:\Users\marco\Desktop\New\SkyEye 1.5\obj\Debug\demoTello.Form2.it.resources
-C:\Users\marco\Desktop\New\SkyEye 1.5\obj\Debug\demoTello.Form4.de.resources
-C:\Users\marco\Desktop\New\SkyEye 1.5\obj\Debug\demoTello.Form4.en.resources
-C:\Users\marco\Desktop\New\SkyEye 1.5\obj\Debug\demoTello.Form4.it.resources
-C:\Users\marco\Desktop\New\SkyEye 1.5\obj\Debug\SkyEye.csproj.GenerateResource.cache
-C:\Users\marco\Desktop\New\SkyEye 1.5\obj\Debug\SkyEye.csproj.CoreCompileInputs.cache
-C:\Users\marco\Desktop\New\SkyEye 1.5\obj\Debug\de\demoTello.resources.dll
-C:\Users\marco\Desktop\New\SkyEye 1.5\obj\Debug\en-SE\demoTello.resources.dll
-C:\Users\marco\Desktop\New\SkyEye 1.5\obj\Debug\en\demoTello.resources.dll
-C:\Users\marco\Desktop\New\SkyEye 1.5\obj\Debug\hi-IN\demoTello.resources.dll
-C:\Users\marco\Desktop\New\SkyEye 1.5\obj\Debug\it\demoTello.resources.dll
-C:\Users\marco\Desktop\New\SkyEye 1.5\obj\Debug\SkyEye.csproj.CopyComplete
-C:\Users\marco\Desktop\New\SkyEye 1.5\obj\Debug\demoTello.exe
-C:\Users\marco\Desktop\New\SkyEye 1.5\obj\Debug\demoTello.pdb
-C:\Users\marco\Desktop\SkyEye\SkyEye 1.5\bin\Debug\demoTello.exe.config
-C:\Users\marco\Desktop\SkyEye\SkyEye 1.5\bin\Debug\demoTello.exe
-C:\Users\marco\Desktop\SkyEye\SkyEye 1.5\bin\Debug\demoTello.pdb
-C:\Users\marco\Desktop\SkyEye\SkyEye 1.5\bin\Debug\de\demoTello.resources.dll
-C:\Users\marco\Desktop\SkyEye\SkyEye 1.5\bin\Debug\en-SE\demoTello.resources.dll
-C:\Users\marco\Desktop\SkyEye\SkyEye 1.5\bin\Debug\en\demoTello.resources.dll
-C:\Users\marco\Desktop\SkyEye\SkyEye 1.5\bin\Debug\hi-IN\demoTello.resources.dll
-C:\Users\marco\Desktop\SkyEye\SkyEye 1.5\bin\Debug\it\demoTello.resources.dll
-C:\Users\marco\Desktop\SkyEye\SkyEye 1.5\bin\Debug\MjpegProcessor.dll
-C:\Users\marco\Desktop\SkyEye\SkyEye 1.5\bin\Debug\NLog.dll
-C:\Users\marco\Desktop\SkyEye\SkyEye 1.5\bin\Debug\OpenCvSharp.dll
-C:\Users\marco\Desktop\SkyEye\SkyEye 1.5\bin\Debug\OpenCvSharp.Extensions.dll
-C:\Users\marco\Desktop\SkyEye\SkyEye 1.5\bin\Debug\SharpDX.DirectInput.dll
-C:\Users\marco\Desktop\SkyEye\SkyEye 1.5\bin\Debug\SharpDX.dll
-C:\Users\marco\Desktop\SkyEye\SkyEye 1.5\bin\Debug\System.Buffers.dll
-C:\Users\marco\Desktop\SkyEye\SkyEye 1.5\bin\Debug\System.Diagnostics.DiagnosticSource.dll
-C:\Users\marco\Desktop\SkyEye\SkyEye 1.5\bin\Debug\System.Drawing.Common.dll
-C:\Users\marco\Desktop\SkyEye\SkyEye 1.5\bin\Debug\System.Memory.dll
-C:\Users\marco\Desktop\SkyEye\SkyEye 1.5\bin\Debug\System.Numerics.Vectors.dll
-C:\Users\marco\Desktop\SkyEye\SkyEye 1.5\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
-C:\Users\marco\Desktop\SkyEye\SkyEye 1.5\bin\Debug\System.ValueTuple.dll
-C:\Users\marco\Desktop\SkyEye\SkyEye 1.5\bin\Debug\NLog.xml
-C:\Users\marco\Desktop\SkyEye\SkyEye 1.5\bin\Debug\OpenCvSharp.xml
-C:\Users\marco\Desktop\SkyEye\SkyEye 1.5\bin\Debug\OpenCvSharp.Extensions.xml
-C:\Users\marco\Desktop\SkyEye\SkyEye 1.5\bin\Debug\SharpDX.pdb
-C:\Users\marco\Desktop\SkyEye\SkyEye 1.5\bin\Debug\SharpDX.DirectInput.pdb
-C:\Users\marco\Desktop\SkyEye\SkyEye 1.5\bin\Debug\SharpDX.DirectInput.xml
-C:\Users\marco\Desktop\SkyEye\SkyEye 1.5\bin\Debug\System.Buffers.xml
-C:\Users\marco\Desktop\SkyEye\SkyEye 1.5\bin\Debug\System.Diagnostics.DiagnosticSource.xml
-C:\Users\marco\Desktop\SkyEye\SkyEye 1.5\bin\Debug\System.Drawing.Common.xml
-C:\Users\marco\Desktop\SkyEye\SkyEye 1.5\bin\Debug\System.Memory.xml
-C:\Users\marco\Desktop\SkyEye\SkyEye 1.5\bin\Debug\System.Numerics.Vectors.xml
-C:\Users\marco\Desktop\SkyEye\SkyEye 1.5\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
-C:\Users\marco\Desktop\SkyEye\SkyEye 1.5\bin\Debug\System.ValueTuple.xml
-C:\Users\marco\Desktop\SkyEye\SkyEye 1.5\bin\Debug\Interop.WMPLib.dll
-C:\Users\marco\Desktop\SkyEye\SkyEye 1.5\bin\Debug\AxInterop.WMPLib.dll
-C:\Users\marco\Desktop\SkyEye\SkyEye 1.5\obj\Debug\SkyEye.csproj.AssemblyReference.cache
-C:\Users\marco\Desktop\SkyEye\SkyEye 1.5\obj\Debug\SkyEye.csproj.SuggestedBindingRedirects.cache
-C:\Users\marco\Desktop\SkyEye\SkyEye 1.5\obj\Debug\Interop.WMPLib.dll
-C:\Users\marco\Desktop\SkyEye\SkyEye 1.5\obj\Debug\AxInterop.WMPLib.dll
-C:\Users\marco\Desktop\SkyEye\SkyEye 1.5\obj\Debug\SkyEye.csproj.ResolveComReference.cache
-C:\Users\marco\Desktop\SkyEye\SkyEye 1.5\obj\Debug\demoTello.Form1.resources
-C:\Users\marco\Desktop\SkyEye\SkyEye 1.5\obj\Debug\demoTello.Form2.resources
-C:\Users\marco\Desktop\SkyEye\SkyEye 1.5\obj\Debug\demoTello.Form3.resources
-C:\Users\marco\Desktop\SkyEye\SkyEye 1.5\obj\Debug\demoTello.Form4.resources
-C:\Users\marco\Desktop\SkyEye\SkyEye 1.5\obj\Debug\demoTello.Form5.resources
-C:\Users\marco\Desktop\SkyEye\SkyEye 1.5\obj\Debug\demoTello.Form6.resources
-C:\Users\marco\Desktop\SkyEye\SkyEye 1.5\obj\Debug\demoTello.Properties.Resources.resources
-C:\Users\marco\Desktop\SkyEye\SkyEye 1.5\obj\Debug\demoTello.Form2.de.resources
-C:\Users\marco\Desktop\SkyEye\SkyEye 1.5\obj\Debug\demoTello.Form2.en-SE.resources
-C:\Users\marco\Desktop\SkyEye\SkyEye 1.5\obj\Debug\demoTello.Form2.en.resources
-C:\Users\marco\Desktop\SkyEye\SkyEye 1.5\obj\Debug\demoTello.Form2.hi-IN.resources
-C:\Users\marco\Desktop\SkyEye\SkyEye 1.5\obj\Debug\demoTello.Form2.it.resources
-C:\Users\marco\Desktop\SkyEye\SkyEye 1.5\obj\Debug\demoTello.Form4.de.resources
-C:\Users\marco\Desktop\SkyEye\SkyEye 1.5\obj\Debug\demoTello.Form4.en.resources
-C:\Users\marco\Desktop\SkyEye\SkyEye 1.5\obj\Debug\demoTello.Form4.it.resources
-C:\Users\marco\Desktop\SkyEye\SkyEye 1.5\obj\Debug\SkyEye.csproj.GenerateResource.cache
-C:\Users\marco\Desktop\SkyEye\SkyEye 1.5\obj\Debug\SkyEye.csproj.CoreCompileInputs.cache
-C:\Users\marco\Desktop\SkyEye\SkyEye 1.5\obj\Debug\de\demoTello.resources.dll
-C:\Users\marco\Desktop\SkyEye\SkyEye 1.5\obj\Debug\en-SE\demoTello.resources.dll
-C:\Users\marco\Desktop\SkyEye\SkyEye 1.5\obj\Debug\en\demoTello.resources.dll
-C:\Users\marco\Desktop\SkyEye\SkyEye 1.5\obj\Debug\hi-IN\demoTello.resources.dll
-C:\Users\marco\Desktop\SkyEye\SkyEye 1.5\obj\Debug\it\demoTello.resources.dll
-C:\Users\marco\Desktop\SkyEye\SkyEye 1.5\obj\Debug\SkyEye.csproj.CopyComplete
-C:\Users\marco\Desktop\SkyEye\SkyEye 1.5\obj\Debug\demoTello.exe
-C:\Users\marco\Desktop\SkyEye\SkyEye 1.5\obj\Debug\demoTello.pdb
+E:\Visual Studio\Esempi\SkyEye 1.5\bin\Debug\demoTello.exe.config
+E:\Visual Studio\Esempi\SkyEye 1.5\bin\Debug\demoTello.exe
+E:\Visual Studio\Esempi\SkyEye 1.5\bin\Debug\demoTello.pdb
+E:\Visual Studio\Esempi\SkyEye 1.5\bin\Debug\de\demoTello.resources.dll
+E:\Visual Studio\Esempi\SkyEye 1.5\bin\Debug\en-SE\demoTello.resources.dll
+E:\Visual Studio\Esempi\SkyEye 1.5\bin\Debug\en\demoTello.resources.dll
+E:\Visual Studio\Esempi\SkyEye 1.5\bin\Debug\hi-IN\demoTello.resources.dll
+E:\Visual Studio\Esempi\SkyEye 1.5\bin\Debug\it\demoTello.resources.dll
+E:\Visual Studio\Esempi\SkyEye 1.5\bin\Debug\MjpegProcessor.dll
+E:\Visual Studio\Esempi\SkyEye 1.5\bin\Debug\NLog.dll
+E:\Visual Studio\Esempi\SkyEye 1.5\bin\Debug\OpenCvSharp.dll
+E:\Visual Studio\Esempi\SkyEye 1.5\bin\Debug\OpenCvSharp.Extensions.dll
+E:\Visual Studio\Esempi\SkyEye 1.5\bin\Debug\SharpDX.DirectInput.dll
+E:\Visual Studio\Esempi\SkyEye 1.5\bin\Debug\SharpDX.dll
+E:\Visual Studio\Esempi\SkyEye 1.5\bin\Debug\System.Buffers.dll
+E:\Visual Studio\Esempi\SkyEye 1.5\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\Visual Studio\Esempi\SkyEye 1.5\bin\Debug\System.Drawing.Common.dll
+E:\Visual Studio\Esempi\SkyEye 1.5\bin\Debug\System.Memory.dll
+E:\Visual Studio\Esempi\SkyEye 1.5\bin\Debug\System.Numerics.Vectors.dll
+E:\Visual Studio\Esempi\SkyEye 1.5\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Visual Studio\Esempi\SkyEye 1.5\bin\Debug\System.ValueTuple.dll
+E:\Visual Studio\Esempi\SkyEye 1.5\bin\Debug\NLog.xml
+E:\Visual Studio\Esempi\SkyEye 1.5\bin\Debug\OpenCvSharp.xml
+E:\Visual Studio\Esempi\SkyEye 1.5\bin\Debug\OpenCvSharp.Extensions.xml
+E:\Visual Studio\Esempi\SkyEye 1.5\bin\Debug\SharpDX.pdb
+E:\Visual Studio\Esempi\SkyEye 1.5\bin\Debug\SharpDX.DirectInput.pdb
+E:\Visual Studio\Esempi\SkyEye 1.5\bin\Debug\SharpDX.DirectInput.xml
+E:\Visual Studio\Esempi\SkyEye 1.5\bin\Debug\System.Buffers.xml
+E:\Visual Studio\Esempi\SkyEye 1.5\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Visual Studio\Esempi\SkyEye 1.5\bin\Debug\System.Drawing.Common.xml
+E:\Visual Studio\Esempi\SkyEye 1.5\bin\Debug\System.Memory.xml
+E:\Visual Studio\Esempi\SkyEye 1.5\bin\Debug\System.Numerics.Vectors.xml
+E:\Visual Studio\Esempi\SkyEye 1.5\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Visual Studio\Esempi\SkyEye 1.5\bin\Debug\System.ValueTuple.xml
+E:\Visual Studio\Esempi\SkyEye 1.5\bin\Debug\Interop.WMPLib.dll
+E:\Visual Studio\Esempi\SkyEye 1.5\bin\Debug\AxInterop.WMPLib.dll
+E:\Visual Studio\Esempi\SkyEye 1.5\obj\Debug\SkyEye.csproj.AssemblyReference.cache
+E:\Visual Studio\Esempi\SkyEye 1.5\obj\Debug\SkyEye.csproj.SuggestedBindingRedirects.cache
+E:\Visual Studio\Esempi\SkyEye 1.5\obj\Debug\Interop.WMPLib.dll
+E:\Visual Studio\Esempi\SkyEye 1.5\obj\Debug\AxInterop.WMPLib.dll
+E:\Visual Studio\Esempi\SkyEye 1.5\obj\Debug\SkyEye.csproj.ResolveComReference.cache
+E:\Visual Studio\Esempi\SkyEye 1.5\obj\Debug\demoTello.Form1.resources
+E:\Visual Studio\Esempi\SkyEye 1.5\obj\Debug\demoTello.Form2.resources
+E:\Visual Studio\Esempi\SkyEye 1.5\obj\Debug\demoTello.Form3.resources
+E:\Visual Studio\Esempi\SkyEye 1.5\obj\Debug\demoTello.Form4.resources
+E:\Visual Studio\Esempi\SkyEye 1.5\obj\Debug\demoTello.Form5.resources
+E:\Visual Studio\Esempi\SkyEye 1.5\obj\Debug\demoTello.Form6.resources
+E:\Visual Studio\Esempi\SkyEye 1.5\obj\Debug\demoTello.Properties.Resources.resources
+E:\Visual Studio\Esempi\SkyEye 1.5\obj\Debug\demoTello.Form2.de.resources
+E:\Visual Studio\Esempi\SkyEye 1.5\obj\Debug\demoTello.Form2.en-SE.resources
+E:\Visual Studio\Esempi\SkyEye 1.5\obj\Debug\demoTello.Form2.en.resources
+E:\Visual Studio\Esempi\SkyEye 1.5\obj\Debug\demoTello.Form2.hi-IN.resources
+E:\Visual Studio\Esempi\SkyEye 1.5\obj\Debug\demoTello.Form2.it.resources
+E:\Visual Studio\Esempi\SkyEye 1.5\obj\Debug\demoTello.Form4.de.resources
+E:\Visual Studio\Esempi\SkyEye 1.5\obj\Debug\demoTello.Form4.en.resources
+E:\Visual Studio\Esempi\SkyEye 1.5\obj\Debug\demoTello.Form4.it.resources
+E:\Visual Studio\Esempi\SkyEye 1.5\obj\Debug\SkyEye.csproj.GenerateResource.cache
+E:\Visual Studio\Esempi\SkyEye 1.5\obj\Debug\SkyEye.csproj.CoreCompileInputs.cache
+E:\Visual Studio\Esempi\SkyEye 1.5\obj\Debug\de\demoTello.resources.dll
+E:\Visual Studio\Esempi\SkyEye 1.5\obj\Debug\en-SE\demoTello.resources.dll
+E:\Visual Studio\Esempi\SkyEye 1.5\obj\Debug\en\demoTello.resources.dll
+E:\Visual Studio\Esempi\SkyEye 1.5\obj\Debug\hi-IN\demoTello.resources.dll
+E:\Visual Studio\Esempi\SkyEye 1.5\obj\Debug\it\demoTello.resources.dll
+E:\Visual Studio\Esempi\SkyEye 1.5\obj\Debug\SkyEye.csproj.CopyComplete
+E:\Visual Studio\Esempi\SkyEye 1.5\obj\Debug\demoTello.exe
+E:\Visual Studio\Esempi\SkyEye 1.5\obj\Debug\demoTello.pdb
+C:\Users\Gabriele\Desktop\SkyEye 1.5\bin\Debug\demoTello.exe.config
+C:\Users\Gabriele\Desktop\SkyEye 1.5\bin\Debug\demoTello.exe
+C:\Users\Gabriele\Desktop\SkyEye 1.5\bin\Debug\demoTello.pdb
+C:\Users\Gabriele\Desktop\SkyEye 1.5\bin\Debug\de\demoTello.resources.dll
+C:\Users\Gabriele\Desktop\SkyEye 1.5\bin\Debug\en-SE\demoTello.resources.dll
+C:\Users\Gabriele\Desktop\SkyEye 1.5\bin\Debug\en\demoTello.resources.dll
+C:\Users\Gabriele\Desktop\SkyEye 1.5\bin\Debug\hi-IN\demoTello.resources.dll
+C:\Users\Gabriele\Desktop\SkyEye 1.5\bin\Debug\it\demoTello.resources.dll
+C:\Users\Gabriele\Desktop\SkyEye 1.5\bin\Debug\MjpegProcessor.dll
+C:\Users\Gabriele\Desktop\SkyEye 1.5\bin\Debug\NLog.dll
+C:\Users\Gabriele\Desktop\SkyEye 1.5\bin\Debug\OpenCvSharp.dll
+C:\Users\Gabriele\Desktop\SkyEye 1.5\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\Gabriele\Desktop\SkyEye 1.5\bin\Debug\SharpDX.DirectInput.dll
+C:\Users\Gabriele\Desktop\SkyEye 1.5\bin\Debug\SharpDX.dll
+C:\Users\Gabriele\Desktop\SkyEye 1.5\bin\Debug\System.Buffers.dll
+C:\Users\Gabriele\Desktop\SkyEye 1.5\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Gabriele\Desktop\SkyEye 1.5\bin\Debug\System.Drawing.Common.dll
+C:\Users\Gabriele\Desktop\SkyEye 1.5\bin\Debug\System.Memory.dll
+C:\Users\Gabriele\Desktop\SkyEye 1.5\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Gabriele\Desktop\SkyEye 1.5\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Gabriele\Desktop\SkyEye 1.5\bin\Debug\System.ValueTuple.dll
+C:\Users\Gabriele\Desktop\SkyEye 1.5\bin\Debug\NLog.xml
+C:\Users\Gabriele\Desktop\SkyEye 1.5\bin\Debug\OpenCvSharp.xml
+C:\Users\Gabriele\Desktop\SkyEye 1.5\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\Gabriele\Desktop\SkyEye 1.5\bin\Debug\SharpDX.pdb
+C:\Users\Gabriele\Desktop\SkyEye 1.5\bin\Debug\SharpDX.DirectInput.pdb
+C:\Users\Gabriele\Desktop\SkyEye 1.5\bin\Debug\SharpDX.DirectInput.xml
+C:\Users\Gabriele\Desktop\SkyEye 1.5\bin\Debug\System.Buffers.xml
+C:\Users\Gabriele\Desktop\SkyEye 1.5\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Gabriele\Desktop\SkyEye 1.5\bin\Debug\System.Drawing.Common.xml
+C:\Users\Gabriele\Desktop\SkyEye 1.5\bin\Debug\System.Memory.xml
+C:\Users\Gabriele\Desktop\SkyEye 1.5\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Gabriele\Desktop\SkyEye 1.5\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Gabriele\Desktop\SkyEye 1.5\bin\Debug\System.ValueTuple.xml
+C:\Users\Gabriele\Desktop\SkyEye 1.5\bin\Debug\Interop.WMPLib.dll
+C:\Users\Gabriele\Desktop\SkyEye 1.5\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Gabriele\Desktop\SkyEye 1.5\obj\Debug\SkyEye.csproj.AssemblyReference.cache
+C:\Users\Gabriele\Desktop\SkyEye 1.5\obj\Debug\SkyEye.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gabriele\Desktop\SkyEye 1.5\obj\Debug\Interop.WMPLib.dll
+C:\Users\Gabriele\Desktop\SkyEye 1.5\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Gabriele\Desktop\SkyEye 1.5\obj\Debug\SkyEye.csproj.ResolveComReference.cache
+C:\Users\Gabriele\Desktop\SkyEye 1.5\obj\Debug\demoTello.Form1.resources
+C:\Users\Gabriele\Desktop\SkyEye 1.5\obj\Debug\demoTello.Form2.resources
+C:\Users\Gabriele\Desktop\SkyEye 1.5\obj\Debug\demoTello.Form3.resources
+C:\Users\Gabriele\Desktop\SkyEye 1.5\obj\Debug\demoTello.Form4.resources
+C:\Users\Gabriele\Desktop\SkyEye 1.5\obj\Debug\demoTello.Form5.resources
+C:\Users\Gabriele\Desktop\SkyEye 1.5\obj\Debug\demoTello.Form6.resources
+C:\Users\Gabriele\Desktop\SkyEye 1.5\obj\Debug\demoTello.Properties.Resources.resources
+C:\Users\Gabriele\Desktop\SkyEye 1.5\obj\Debug\demoTello.Form2.de.resources
+C:\Users\Gabriele\Desktop\SkyEye 1.5\obj\Debug\demoTello.Form2.en-SE.resources
+C:\Users\Gabriele\Desktop\SkyEye 1.5\obj\Debug\demoTello.Form2.en.resources
+C:\Users\Gabriele\Desktop\SkyEye 1.5\obj\Debug\demoTello.Form2.hi-IN.resources
+C:\Users\Gabriele\Desktop\SkyEye 1.5\obj\Debug\demoTello.Form2.it.resources
+C:\Users\Gabriele\Desktop\SkyEye 1.5\obj\Debug\demoTello.Form4.de.resources
+C:\Users\Gabriele\Desktop\SkyEye 1.5\obj\Debug\demoTello.Form4.en.resources
+C:\Users\Gabriele\Desktop\SkyEye 1.5\obj\Debug\demoTello.Form4.it.resources
+C:\Users\Gabriele\Desktop\SkyEye 1.5\obj\Debug\SkyEye.csproj.GenerateResource.cache
+C:\Users\Gabriele\Desktop\SkyEye 1.5\obj\Debug\SkyEye.csproj.CoreCompileInputs.cache
+C:\Users\Gabriele\Desktop\SkyEye 1.5\obj\Debug\de\demoTello.resources.dll
+C:\Users\Gabriele\Desktop\SkyEye 1.5\obj\Debug\en-SE\demoTello.resources.dll
+C:\Users\Gabriele\Desktop\SkyEye 1.5\obj\Debug\en\demoTello.resources.dll
+C:\Users\Gabriele\Desktop\SkyEye 1.5\obj\Debug\hi-IN\demoTello.resources.dll
+C:\Users\Gabriele\Desktop\SkyEye 1.5\obj\Debug\it\demoTello.resources.dll
+C:\Users\Gabriele\Desktop\SkyEye 1.5\obj\Debug\SkyEye.csproj.CopyComplete
+C:\Users\Gabriele\Desktop\SkyEye 1.5\obj\Debug\demoTello.exe
+C:\Users\Gabriele\Desktop\SkyEye 1.5\obj\Debug\demoTello.pdb
+C:\Users\User\OneDrive\Desktop\SkyEye 1.5\SkyEye 1.5\bin\Debug\demoTello.exe.config
+C:\Users\User\OneDrive\Desktop\SkyEye 1.5\SkyEye 1.5\bin\Debug\demoTello.exe
+C:\Users\User\OneDrive\Desktop\SkyEye 1.5\SkyEye 1.5\bin\Debug\demoTello.pdb
+C:\Users\User\OneDrive\Desktop\SkyEye 1.5\SkyEye 1.5\bin\Debug\de\demoTello.resources.dll
+C:\Users\User\OneDrive\Desktop\SkyEye 1.5\SkyEye 1.5\bin\Debug\en\demoTello.resources.dll
+C:\Users\User\OneDrive\Desktop\SkyEye 1.5\SkyEye 1.5\bin\Debug\it\demoTello.resources.dll
+C:\Users\User\OneDrive\Desktop\SkyEye 1.5\SkyEye 1.5\bin\Debug\MjpegProcessor.dll
+C:\Users\User\OneDrive\Desktop\SkyEye 1.5\SkyEye 1.5\bin\Debug\NLog.dll
+C:\Users\User\OneDrive\Desktop\SkyEye 1.5\SkyEye 1.5\bin\Debug\OpenCvSharp.dll
+C:\Users\User\OneDrive\Desktop\SkyEye 1.5\SkyEye 1.5\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\User\OneDrive\Desktop\SkyEye 1.5\SkyEye 1.5\bin\Debug\SharpDX.DirectInput.dll
+C:\Users\User\OneDrive\Desktop\SkyEye 1.5\SkyEye 1.5\bin\Debug\SharpDX.dll
+C:\Users\User\OneDrive\Desktop\SkyEye 1.5\SkyEye 1.5\bin\Debug\System.Buffers.dll
+C:\Users\User\OneDrive\Desktop\SkyEye 1.5\SkyEye 1.5\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\OneDrive\Desktop\SkyEye 1.5\SkyEye 1.5\bin\Debug\System.Drawing.Common.dll
+C:\Users\User\OneDrive\Desktop\SkyEye 1.5\SkyEye 1.5\bin\Debug\System.Memory.dll
+C:\Users\User\OneDrive\Desktop\SkyEye 1.5\SkyEye 1.5\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\OneDrive\Desktop\SkyEye 1.5\SkyEye 1.5\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\OneDrive\Desktop\SkyEye 1.5\SkyEye 1.5\bin\Debug\System.ValueTuple.dll
+C:\Users\User\OneDrive\Desktop\SkyEye 1.5\SkyEye 1.5\bin\Debug\NLog.xml
+C:\Users\User\OneDrive\Desktop\SkyEye 1.5\SkyEye 1.5\bin\Debug\OpenCvSharp.xml
+C:\Users\User\OneDrive\Desktop\SkyEye 1.5\SkyEye 1.5\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\User\OneDrive\Desktop\SkyEye 1.5\SkyEye 1.5\bin\Debug\SharpDX.pdb
+C:\Users\User\OneDrive\Desktop\SkyEye 1.5\SkyEye 1.5\bin\Debug\SharpDX.DirectInput.pdb
+C:\Users\User\OneDrive\Desktop\SkyEye 1.5\SkyEye 1.5\bin\Debug\SharpDX.DirectInput.xml
+C:\Users\User\OneDrive\Desktop\SkyEye 1.5\SkyEye 1.5\bin\Debug\System.Buffers.xml
+C:\Users\User\OneDrive\Desktop\SkyEye 1.5\SkyEye 1.5\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\User\OneDrive\Desktop\SkyEye 1.5\SkyEye 1.5\bin\Debug\System.Drawing.Common.xml
+C:\Users\User\OneDrive\Desktop\SkyEye 1.5\SkyEye 1.5\bin\Debug\System.Memory.xml
+C:\Users\User\OneDrive\Desktop\SkyEye 1.5\SkyEye 1.5\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\OneDrive\Desktop\SkyEye 1.5\SkyEye 1.5\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\OneDrive\Desktop\SkyEye 1.5\SkyEye 1.5\bin\Debug\System.ValueTuple.xml
+C:\Users\User\OneDrive\Desktop\SkyEye 1.5\SkyEye 1.5\bin\Debug\Interop.WMPLib.dll
+C:\Users\User\OneDrive\Desktop\SkyEye 1.5\SkyEye 1.5\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\User\OneDrive\Desktop\SkyEye 1.5\SkyEye 1.5\obj\Debug\SkyEye.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\SkyEye 1.5\SkyEye 1.5\obj\Debug\SkyEye.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Desktop\SkyEye 1.5\SkyEye 1.5\obj\Debug\Interop.WMPLib.dll
+C:\Users\User\OneDrive\Desktop\SkyEye 1.5\SkyEye 1.5\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\User\OneDrive\Desktop\SkyEye 1.5\SkyEye 1.5\obj\Debug\SkyEye.csproj.ResolveComReference.cache
+C:\Users\User\OneDrive\Desktop\SkyEye 1.5\SkyEye 1.5\obj\Debug\demoTello.Form1.resources
+C:\Users\User\OneDrive\Desktop\SkyEye 1.5\SkyEye 1.5\obj\Debug\demoTello.Form3.resources
+C:\Users\User\OneDrive\Desktop\SkyEye 1.5\SkyEye 1.5\obj\Debug\demoTello.Form4.resources
+C:\Users\User\OneDrive\Desktop\SkyEye 1.5\SkyEye 1.5\obj\Debug\demoTello.Form5.resources
+C:\Users\User\OneDrive\Desktop\SkyEye 1.5\SkyEye 1.5\obj\Debug\demoTello.Form6.resources
+C:\Users\User\OneDrive\Desktop\SkyEye 1.5\SkyEye 1.5\obj\Debug\demoTello.Properties.Resources.resources
+C:\Users\User\OneDrive\Desktop\SkyEye 1.5\SkyEye 1.5\obj\Debug\demoTello.Form4.de.resources
+C:\Users\User\OneDrive\Desktop\SkyEye 1.5\SkyEye 1.5\obj\Debug\demoTello.Form4.en.resources
+C:\Users\User\OneDrive\Desktop\SkyEye 1.5\SkyEye 1.5\obj\Debug\demoTello.Form4.it.resources
+C:\Users\User\OneDrive\Desktop\SkyEye 1.5\SkyEye 1.5\obj\Debug\SkyEye.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Desktop\SkyEye 1.5\SkyEye 1.5\obj\Debug\SkyEye.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\SkyEye 1.5\SkyEye 1.5\obj\Debug\de\demoTello.resources.dll
+C:\Users\User\OneDrive\Desktop\SkyEye 1.5\SkyEye 1.5\obj\Debug\en\demoTello.resources.dll
+C:\Users\User\OneDrive\Desktop\SkyEye 1.5\SkyEye 1.5\obj\Debug\it\demoTello.resources.dll
+C:\Users\User\OneDrive\Desktop\SkyEye 1.5\SkyEye 1.5\obj\Debug\SkyEye.csproj.CopyComplete
+C:\Users\User\OneDrive\Desktop\SkyEye 1.5\SkyEye 1.5\obj\Debug\demoTello.exe
+C:\Users\User\OneDrive\Desktop\SkyEye 1.5\SkyEye 1.5\obj\Debug\demoTello.pdb
+C:\Users\User\OneDrive\Desktop\infooo\SkyEye 3.0\bin\Debug\demoTello.exe.config
+C:\Users\User\OneDrive\Desktop\infooo\SkyEye 3.0\bin\Debug\demoTello.exe
+C:\Users\User\OneDrive\Desktop\infooo\SkyEye 3.0\bin\Debug\demoTello.pdb
+C:\Users\User\OneDrive\Desktop\infooo\SkyEye 3.0\bin\Debug\de\demoTello.resources.dll
+C:\Users\User\OneDrive\Desktop\infooo\SkyEye 3.0\bin\Debug\en\demoTello.resources.dll
+C:\Users\User\OneDrive\Desktop\infooo\SkyEye 3.0\bin\Debug\it\demoTello.resources.dll
+C:\Users\User\OneDrive\Desktop\infooo\SkyEye 3.0\bin\Debug\MjpegProcessor.dll
+C:\Users\User\OneDrive\Desktop\infooo\SkyEye 3.0\bin\Debug\NLog.dll
+C:\Users\User\OneDrive\Desktop\infooo\SkyEye 3.0\bin\Debug\OpenCvSharp.dll
+C:\Users\User\OneDrive\Desktop\infooo\SkyEye 3.0\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\User\OneDrive\Desktop\infooo\SkyEye 3.0\bin\Debug\SharpDX.DirectInput.dll
+C:\Users\User\OneDrive\Desktop\infooo\SkyEye 3.0\bin\Debug\SharpDX.dll
+C:\Users\User\OneDrive\Desktop\infooo\SkyEye 3.0\bin\Debug\System.Buffers.dll
+C:\Users\User\OneDrive\Desktop\infooo\SkyEye 3.0\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\OneDrive\Desktop\infooo\SkyEye 3.0\bin\Debug\System.Drawing.Common.dll
+C:\Users\User\OneDrive\Desktop\infooo\SkyEye 3.0\bin\Debug\System.Memory.dll
+C:\Users\User\OneDrive\Desktop\infooo\SkyEye 3.0\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\OneDrive\Desktop\infooo\SkyEye 3.0\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\OneDrive\Desktop\infooo\SkyEye 3.0\bin\Debug\System.ValueTuple.dll
+C:\Users\User\OneDrive\Desktop\infooo\SkyEye 3.0\bin\Debug\NLog.xml
+C:\Users\User\OneDrive\Desktop\infooo\SkyEye 3.0\bin\Debug\OpenCvSharp.xml
+C:\Users\User\OneDrive\Desktop\infooo\SkyEye 3.0\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\User\OneDrive\Desktop\infooo\SkyEye 3.0\bin\Debug\SharpDX.pdb
+C:\Users\User\OneDrive\Desktop\infooo\SkyEye 3.0\bin\Debug\SharpDX.DirectInput.pdb
+C:\Users\User\OneDrive\Desktop\infooo\SkyEye 3.0\bin\Debug\SharpDX.DirectInput.xml
+C:\Users\User\OneDrive\Desktop\infooo\SkyEye 3.0\bin\Debug\System.Buffers.xml
+C:\Users\User\OneDrive\Desktop\infooo\SkyEye 3.0\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\User\OneDrive\Desktop\infooo\SkyEye 3.0\bin\Debug\System.Drawing.Common.xml
+C:\Users\User\OneDrive\Desktop\infooo\SkyEye 3.0\bin\Debug\System.Memory.xml
+C:\Users\User\OneDrive\Desktop\infooo\SkyEye 3.0\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\OneDrive\Desktop\infooo\SkyEye 3.0\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\OneDrive\Desktop\infooo\SkyEye 3.0\bin\Debug\System.ValueTuple.xml
+C:\Users\User\OneDrive\Desktop\infooo\SkyEye 3.0\bin\Debug\Interop.WMPLib.dll
+C:\Users\User\OneDrive\Desktop\infooo\SkyEye 3.0\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\User\OneDrive\Desktop\infooo\SkyEye 3.0\obj\Debug\SkyEye.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\infooo\SkyEye 3.0\obj\Debug\SkyEye.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Desktop\infooo\SkyEye 3.0\obj\Debug\Interop.WMPLib.dll
+C:\Users\User\OneDrive\Desktop\infooo\SkyEye 3.0\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\User\OneDrive\Desktop\infooo\SkyEye 3.0\obj\Debug\SkyEye.csproj.ResolveComReference.cache
+C:\Users\User\OneDrive\Desktop\infooo\SkyEye 3.0\obj\Debug\demoTello.Form1.resources
+C:\Users\User\OneDrive\Desktop\infooo\SkyEye 3.0\obj\Debug\demoTello.Form3.resources
+C:\Users\User\OneDrive\Desktop\infooo\SkyEye 3.0\obj\Debug\demoTello.Form4.resources
+C:\Users\User\OneDrive\Desktop\infooo\SkyEye 3.0\obj\Debug\demoTello.Form5.resources
+C:\Users\User\OneDrive\Desktop\infooo\SkyEye 3.0\obj\Debug\demoTello.Form6.resources
+C:\Users\User\OneDrive\Desktop\infooo\SkyEye 3.0\obj\Debug\demoTello.Properties.Resources.resources
+C:\Users\User\OneDrive\Desktop\infooo\SkyEye 3.0\obj\Debug\demoTello.Form4.de.resources
+C:\Users\User\OneDrive\Desktop\infooo\SkyEye 3.0\obj\Debug\demoTello.Form4.en.resources
+C:\Users\User\OneDrive\Desktop\infooo\SkyEye 3.0\obj\Debug\demoTello.Form4.it.resources
+C:\Users\User\OneDrive\Desktop\infooo\SkyEye 3.0\obj\Debug\SkyEye.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Desktop\infooo\SkyEye 3.0\obj\Debug\SkyEye.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\infooo\SkyEye 3.0\obj\Debug\de\demoTello.resources.dll
+C:\Users\User\OneDrive\Desktop\infooo\SkyEye 3.0\obj\Debug\en\demoTello.resources.dll
+C:\Users\User\OneDrive\Desktop\infooo\SkyEye 3.0\obj\Debug\it\demoTello.resources.dll
+C:\Users\User\OneDrive\Desktop\infooo\SkyEye 3.0\obj\Debug\SkyEye.csproj.CopyComplete
+C:\Users\User\OneDrive\Desktop\infooo\SkyEye 3.0\obj\Debug\demoTello.exe
+C:\Users\User\OneDrive\Desktop\infooo\SkyEye 3.0\obj\Debug\demoTello.pdb
+C:\Users\marco\Desktop\SkyEye 3.0\bin\Debug\demoTello.exe.config
+C:\Users\marco\Desktop\SkyEye 3.0\bin\Debug\demoTello.exe
+C:\Users\marco\Desktop\SkyEye 3.0\bin\Debug\demoTello.pdb
+C:\Users\marco\Desktop\SkyEye 3.0\bin\Debug\de\demoTello.resources.dll
+C:\Users\marco\Desktop\SkyEye 3.0\bin\Debug\en\demoTello.resources.dll
+C:\Users\marco\Desktop\SkyEye 3.0\bin\Debug\it\demoTello.resources.dll
+C:\Users\marco\Desktop\SkyEye 3.0\bin\Debug\MjpegProcessor.dll
+C:\Users\marco\Desktop\SkyEye 3.0\bin\Debug\NLog.dll
+C:\Users\marco\Desktop\SkyEye 3.0\bin\Debug\OpenCvSharp.dll
+C:\Users\marco\Desktop\SkyEye 3.0\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\marco\Desktop\SkyEye 3.0\bin\Debug\SharpDX.DirectInput.dll
+C:\Users\marco\Desktop\SkyEye 3.0\bin\Debug\SharpDX.dll
+C:\Users\marco\Desktop\SkyEye 3.0\bin\Debug\System.Buffers.dll
+C:\Users\marco\Desktop\SkyEye 3.0\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\marco\Desktop\SkyEye 3.0\bin\Debug\System.Drawing.Common.dll
+C:\Users\marco\Desktop\SkyEye 3.0\bin\Debug\System.Memory.dll
+C:\Users\marco\Desktop\SkyEye 3.0\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\marco\Desktop\SkyEye 3.0\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\marco\Desktop\SkyEye 3.0\bin\Debug\System.ValueTuple.dll
+C:\Users\marco\Desktop\SkyEye 3.0\bin\Debug\NLog.xml
+C:\Users\marco\Desktop\SkyEye 3.0\bin\Debug\OpenCvSharp.xml
+C:\Users\marco\Desktop\SkyEye 3.0\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\marco\Desktop\SkyEye 3.0\bin\Debug\SharpDX.pdb
+C:\Users\marco\Desktop\SkyEye 3.0\bin\Debug\SharpDX.DirectInput.pdb
+C:\Users\marco\Desktop\SkyEye 3.0\bin\Debug\SharpDX.DirectInput.xml
+C:\Users\marco\Desktop\SkyEye 3.0\bin\Debug\System.Buffers.xml
+C:\Users\marco\Desktop\SkyEye 3.0\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\marco\Desktop\SkyEye 3.0\bin\Debug\System.Drawing.Common.xml
+C:\Users\marco\Desktop\SkyEye 3.0\bin\Debug\System.Memory.xml
+C:\Users\marco\Desktop\SkyEye 3.0\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\marco\Desktop\SkyEye 3.0\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\marco\Desktop\SkyEye 3.0\bin\Debug\System.ValueTuple.xml
+C:\Users\marco\Desktop\SkyEye 3.0\bin\Debug\Interop.WMPLib.dll
+C:\Users\marco\Desktop\SkyEye 3.0\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\marco\Desktop\SkyEye 3.0\obj\Debug\SkyEye.csproj.AssemblyReference.cache
+C:\Users\marco\Desktop\SkyEye 3.0\obj\Debug\SkyEye.csproj.SuggestedBindingRedirects.cache
+C:\Users\marco\Desktop\SkyEye 3.0\obj\Debug\Interop.WMPLib.dll
+C:\Users\marco\Desktop\SkyEye 3.0\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\marco\Desktop\SkyEye 3.0\obj\Debug\SkyEye.csproj.ResolveComReference.cache
+C:\Users\marco\Desktop\SkyEye 3.0\obj\Debug\demoTello.Form1.resources
+C:\Users\marco\Desktop\SkyEye 3.0\obj\Debug\demoTello.Form3.resources
+C:\Users\marco\Desktop\SkyEye 3.0\obj\Debug\demoTello.Form4.resources
+C:\Users\marco\Desktop\SkyEye 3.0\obj\Debug\demoTello.Form5.resources
+C:\Users\marco\Desktop\SkyEye 3.0\obj\Debug\demoTello.Form6.resources
+C:\Users\marco\Desktop\SkyEye 3.0\obj\Debug\demoTello.Properties.Resources.resources
+C:\Users\marco\Desktop\SkyEye 3.0\obj\Debug\demoTello.Form4.de.resources
+C:\Users\marco\Desktop\SkyEye 3.0\obj\Debug\demoTello.Form4.en.resources
+C:\Users\marco\Desktop\SkyEye 3.0\obj\Debug\demoTello.Form4.it.resources
+C:\Users\marco\Desktop\SkyEye 3.0\obj\Debug\SkyEye.csproj.GenerateResource.cache
+C:\Users\marco\Desktop\SkyEye 3.0\obj\Debug\SkyEye.csproj.CoreCompileInputs.cache
+C:\Users\marco\Desktop\SkyEye 3.0\obj\Debug\de\demoTello.resources.dll
+C:\Users\marco\Desktop\SkyEye 3.0\obj\Debug\en\demoTello.resources.dll
+C:\Users\marco\Desktop\SkyEye 3.0\obj\Debug\it\demoTello.resources.dll
+C:\Users\marco\Desktop\SkyEye 3.0\obj\Debug\SkyEye.csproj.CopyComplete
+C:\Users\marco\Desktop\SkyEye 3.0\obj\Debug\demoTello.exe
+C:\Users\marco\Desktop\SkyEye 3.0\obj\Debug\demoTello.pdb
+C:\Users\marco\Desktop\SkyEye_3.0\bin\Debug\demoTello.exe.config
+C:\Users\marco\Desktop\SkyEye_3.0\bin\Debug\demoTello.exe
+C:\Users\marco\Desktop\SkyEye_3.0\bin\Debug\demoTello.pdb
+C:\Users\marco\Desktop\SkyEye_3.0\bin\Debug\de\demoTello.resources.dll
+C:\Users\marco\Desktop\SkyEye_3.0\bin\Debug\en\demoTello.resources.dll
+C:\Users\marco\Desktop\SkyEye_3.0\bin\Debug\it\demoTello.resources.dll
+C:\Users\marco\Desktop\SkyEye_3.0\bin\Debug\MjpegProcessor.dll
+C:\Users\marco\Desktop\SkyEye_3.0\bin\Debug\NLog.dll
+C:\Users\marco\Desktop\SkyEye_3.0\bin\Debug\OpenCvSharp.dll
+C:\Users\marco\Desktop\SkyEye_3.0\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\marco\Desktop\SkyEye_3.0\bin\Debug\SharpDX.DirectInput.dll
+C:\Users\marco\Desktop\SkyEye_3.0\bin\Debug\SharpDX.dll
+C:\Users\marco\Desktop\SkyEye_3.0\bin\Debug\System.Buffers.dll
+C:\Users\marco\Desktop\SkyEye_3.0\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\marco\Desktop\SkyEye_3.0\bin\Debug\System.Drawing.Common.dll
+C:\Users\marco\Desktop\SkyEye_3.0\bin\Debug\System.Memory.dll
+C:\Users\marco\Desktop\SkyEye_3.0\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\marco\Desktop\SkyEye_3.0\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\marco\Desktop\SkyEye_3.0\bin\Debug\System.ValueTuple.dll
+C:\Users\marco\Desktop\SkyEye_3.0\bin\Debug\NLog.xml
+C:\Users\marco\Desktop\SkyEye_3.0\bin\Debug\OpenCvSharp.xml
+C:\Users\marco\Desktop\SkyEye_3.0\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\marco\Desktop\SkyEye_3.0\bin\Debug\SharpDX.pdb
+C:\Users\marco\Desktop\SkyEye_3.0\bin\Debug\SharpDX.DirectInput.pdb
+C:\Users\marco\Desktop\SkyEye_3.0\bin\Debug\SharpDX.DirectInput.xml
+C:\Users\marco\Desktop\SkyEye_3.0\bin\Debug\System.Buffers.xml
+C:\Users\marco\Desktop\SkyEye_3.0\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\marco\Desktop\SkyEye_3.0\bin\Debug\System.Drawing.Common.xml
+C:\Users\marco\Desktop\SkyEye_3.0\bin\Debug\System.Memory.xml
+C:\Users\marco\Desktop\SkyEye_3.0\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\marco\Desktop\SkyEye_3.0\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\marco\Desktop\SkyEye_3.0\bin\Debug\System.ValueTuple.xml
+C:\Users\marco\Desktop\SkyEye_3.0\bin\Debug\Interop.WMPLib.dll
+C:\Users\marco\Desktop\SkyEye_3.0\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\marco\Desktop\SkyEye_3.0\obj\Debug\SkyEye.csproj.AssemblyReference.cache
+C:\Users\marco\Desktop\SkyEye_3.0\obj\Debug\SkyEye.csproj.SuggestedBindingRedirects.cache
+C:\Users\marco\Desktop\SkyEye_3.0\obj\Debug\Interop.WMPLib.dll
+C:\Users\marco\Desktop\SkyEye_3.0\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\marco\Desktop\SkyEye_3.0\obj\Debug\SkyEye.csproj.ResolveComReference.cache
+C:\Users\marco\Desktop\SkyEye_3.0\obj\Debug\demoTello.Form1.resources
+C:\Users\marco\Desktop\SkyEye_3.0\obj\Debug\demoTello.Form3.resources
+C:\Users\marco\Desktop\SkyEye_3.0\obj\Debug\demoTello.Form4.resources
+C:\Users\marco\Desktop\SkyEye_3.0\obj\Debug\demoTello.Form5.resources
+C:\Users\marco\Desktop\SkyEye_3.0\obj\Debug\demoTello.Form6.resources
+C:\Users\marco\Desktop\SkyEye_3.0\obj\Debug\demoTello.Properties.Resources.resources
+C:\Users\marco\Desktop\SkyEye_3.0\obj\Debug\demoTello.Form4.de.resources
+C:\Users\marco\Desktop\SkyEye_3.0\obj\Debug\demoTello.Form4.en.resources
+C:\Users\marco\Desktop\SkyEye_3.0\obj\Debug\demoTello.Form4.it.resources
+C:\Users\marco\Desktop\SkyEye_3.0\obj\Debug\SkyEye.csproj.GenerateResource.cache
+C:\Users\marco\Desktop\SkyEye_3.0\obj\Debug\SkyEye.csproj.CoreCompileInputs.cache
+C:\Users\marco\Desktop\SkyEye_3.0\obj\Debug\de\demoTello.resources.dll
+C:\Users\marco\Desktop\SkyEye_3.0\obj\Debug\en\demoTello.resources.dll
+C:\Users\marco\Desktop\SkyEye_3.0\obj\Debug\it\demoTello.resources.dll
+C:\Users\marco\Desktop\SkyEye_3.0\obj\Debug\SkyEye.csproj.CopyComplete
+C:\Users\marco\Desktop\SkyEye_3.0\obj\Debug\demoTello.exe
+C:\Users\marco\Desktop\SkyEye_3.0\obj\Debug\demoTello.pdb

@@ -20,6 +20,7 @@ using Drone;
 using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 
 
+
 namespace demoTello
 {
 
@@ -28,6 +29,7 @@ namespace demoTello
 
         private static class TelloRC
         {
+
 
 
             public static TelloCmd Tello { get; set; }
@@ -59,6 +61,9 @@ namespace demoTello
             /// <param name="up_down_velocity">-100~100 (down/up)</param>
             /// <param name="yaw_velocity">-100~100 (yaw)</param>
             /// <param name="context">optional command context for logging/debugging</param>
+            /// 
+
+            
             public static bool SendRCControl((string Key, int Value)[] setChannels = null)
             {
                 if (!Tello.Connected)
@@ -104,12 +109,14 @@ namespace demoTello
         }
 
 
+        
+
         public struct Istruzione
         {
             public double distance;
             public double degrees;
         }
-
+        public static Form1 menu;
         private List<Point> points = new List<Point>();
         private bool ostacoliMode = false;
 
@@ -144,7 +151,10 @@ namespace demoTello
             comboBox1.Items.Add("Ostacoli");
 
             comboBox1.SelectedIndexChanged += comboBox1_SelectedIndexChanged;
+
+            
         }
+
 
         private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
@@ -258,67 +268,6 @@ namespace demoTello
             }
 
 
-
-
-            //if (points.Count > 1)
-            //{
-            //    double totalDistance = 0.0;
-            //    for (int i = 0; i < points.Count - 1; i++)
-            //    {
-            //        Point start = points[i];
-            //        Point end = points[i + 1];
-            //        double distance = Distance(start, end) / 29.0;
-
-            //        if (distance != 0.0)
-            //        {
-            //            if (i > 0)
-            //            {
-            //                istruzioni[i - 1].distance = distance;
-            //            }
-            //        }
-            //        totalDistance += distance;
-            //        if (distance != 0.0)
-            //            e.Graphics.DrawString(distance.ToString("F2") + "m", this.Font, Brushes.Black, (start.X + end.X) / 2, (start.Y + end.Y) / 2);
-            //    }
-            //    e.Graphics.DrawString("Total distance: " + totalDistance.ToString("F2") + "m", this.Font, Brushes.Black, 10, pictureBox1.Height - 20);
-
-            //    for (int i = 1; i < points.Count - 1; i = i + 2)
-            //    {
-            //        Point current = points[i];
-            //        Point previous = points[i - 1];
-            //        Point next = points[i + 1];
-
-            //        double dx1 = current.X - previous.X;
-            //        double dy1 = current.Y - previous.Y;
-            //        double angle1 = Math.Atan2(dy1, dx1) * 180 / Math.PI;
-
-            //        double dx2 = next.X - current.X;
-            //        double dy2 = next.Y - current.Y;
-            //        double angle2 = Math.Atan2(dy2, dx2) * 180 / Math.PI;
-
-            //        // disegna i gradi tra i due punti
-
-            //        double angle = -((angle2 - angle1) % 360);
-
-            //        if (istruzioni[i - 1].distance != 0.0)
-            //        {
-            //            istruzioni[i - 1].degrees = angle;
-            //            num++;
-            //            refreshListBoxIstruzioni(ref num);
-            //        }
-
-
-            //        string angleText = $"{angle:N2} gradi";
-            //        Point center = new Point((current.X + previous.X + next.X) / 3, (current.Y + previous.Y + next.Y) / 4);
-
-            //        e.Graphics.DrawString(angleText, this.Font, Brushes.Black, center.X, center.Y);
-
-
-            //    }
-            //}
-
-
-
             if (points.Count > 1)
             {
                 double totalDistance = 0.0;
@@ -327,6 +276,7 @@ namespace demoTello
                     Point start = points[i];
                     Point end = points[i + 1];
                     double distance = Distance(start, end) / 29.0;
+
 
                     if (distance != 0.0)
                     {
@@ -373,7 +323,6 @@ namespace demoTello
                     {
                         istruzioni[i - 1].degrees = angle;
                         num++;
-                        refreshListBoxIstruzioni(ref num);
                         txt_insDegree.Text = angle.ToString();
                         txt_insDistance.Text = distanceOfficial.ToString();
                         btn_createIstruction.PerformClick();
@@ -384,6 +333,10 @@ namespace demoTello
                     Point center = new Point((current.X + previous.X) / 2, (current.Y + previous.Y) / 2);
 
                     e.Graphics.DrawString(angleText, this.Font, Brushes.Black, center.X, center.Y);
+
+
+
+                    refreshListBoxIstruzioni(ref num);
 
                 }
             }
@@ -557,25 +510,6 @@ namespace demoTello
             }
         }
 
-        private void pictureBox1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void comboBox1_SelectedIndexChanged_1(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label2_Click(object sender, EventArgs e)
-        {
-
-        }
 
         private void parti_Click(object sender, EventArgs e)
         {
@@ -717,7 +651,6 @@ namespace demoTello
             pos = -1;
         }
 
-       
     }
 
 }

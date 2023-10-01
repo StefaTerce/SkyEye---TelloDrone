@@ -98,7 +98,7 @@ namespace demoTello
                 case 0:
                     string language = "it";
                     Form1.changeLanguage(language);
-                    Form2.changeLanguage(language);
+                    Form1.changeLanguage(language);
                     Form3.changeLanguage(language);
                     Form4.changeLanguage(language);
                     Form5.changeLanguage(language);
@@ -106,7 +106,7 @@ namespace demoTello
                 case 1:
                     string language2 = "en";
                     Form1.changeLanguage(language2);
-                    Form2.changeLanguage(language2);
+                    Form1.changeLanguage(language2);
                     Form3.changeLanguage(language2);
                     Form4.changeLanguage(language2);
                     Form5.changeLanguage(language2);
@@ -114,7 +114,7 @@ namespace demoTello
                 case 2:
                     string language3 = "de";
                     Form1.changeLanguage(language3);
-                    Form2.changeLanguage(language3);
+                    Form1.changeLanguage(language3);
                     Form3.changeLanguage(language3);
                     Form4.changeLanguage(language3);
                     Form5.changeLanguage(language3);
