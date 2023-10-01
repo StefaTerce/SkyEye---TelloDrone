@@ -1,8 +1,16 @@
-if you want streaming download this .exe from this link and locate it in this 2 folders "/Streaming/bin/Debug" and "/bin/debug" 
+if you want streaming download this .exe from this link and locate it in this 2 folders "/_utility" and "/bin/debug" 
 
 Link file:
 https://drive.google.com/file/d/1lO1vrFFHNyZs4nDurVpqQ0hyCe-wVaig/view?usp=share_link
 
+and use this commands on cmd prompt
+
+Pip install torchvision
+Pip install opencv-python
+Pip install Pillow
+Pip install numpy
+
+and if that doesnt work, simply install python
 
 Description:
 Using an intuitive user interface, users can easily design and define custom flight 
