@@ -4,14 +4,11 @@ if you want to access the streaming mode download this .exe from this link and l
 Link file:
 https://drive.google.com/file/d/1lO1vrFFHNyZs4nDurVpqQ0hyCe-wVaig/view?usp=share_link
 
-and use this commands on cmd prompt
+and simply install python
 
-Pip install torchvision
-Pip install opencv-python
-Pip install Pillow
-Pip install numpy
+https://www.python.org/downloads/release/python-3106/
 
-and if that doesnt work, simply install python
+and check the box with "Add Python 4.7 to the PATH"
 
 Description:
 Using an intuitive user interface, users can easily design and define custom flight 
